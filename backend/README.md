@@ -8,7 +8,12 @@ The backend for RestrauBuddy is a lightweight Python Flask service that hosts th
 
 - **Demand Prediction API**: Provides quantity forecasts for specific dishes based on historical data.
 - **Wait Time Estimation**: (In Development) Predictive modeling for kitchen and table wait times.
+- **Deployment Ready**: Supports `PORT` and `HOST` configuration via environment variables.
 - **Seamless Integration**: Designed to be consumed by the React frontend.
+
+## ⚙️ Environment Variables
+
+- **PORT**: (Optional) The port number the server will listen on. Defaults to `5001`.
 
 ## 🛠️ Tech Stack
 
