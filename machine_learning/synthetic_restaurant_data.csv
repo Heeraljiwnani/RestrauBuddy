@@ -1,0 +1,1826 @@
+date,day_type,festival,is_festival,unexpected_surge,customers,dish,quantity_sold,prep_quantity,waste,revenue,waste_cost
+2024-01-01,Weekday,None,0,0,88,Biryani,19,20,1,4750,100.0
+2024-01-01,Weekday,None,0,0,88,Paneer Butter Masala,15,17,2,3300,176.0
+2024-01-01,Weekday,None,0,0,88,Dosa,13,14,1,1560,48.0
+2024-01-01,Weekday,None,0,0,88,Burger,17,18,1,2550,60.0
+2024-01-01,Weekday,None,0,0,88,Pizza,18,19,1,5400,120.0
+2024-01-02,Weekday,None,0,0,80,Biryani,18,20,2,4500,200.0
+2024-01-02,Weekday,None,0,0,80,Paneer Butter Masala,14,16,2,3080,176.0
+2024-01-02,Weekday,None,0,0,80,Dosa,12,12,0,1440,0.0
+2024-01-02,Weekday,None,0,0,80,Burger,15,17,2,2250,120.0
+2024-01-02,Weekday,None,0,0,80,Pizza,16,18,2,4800,240.0
+2024-01-03,Weekday,None,0,0,87,Biryani,19,20,1,4750,100.0
+2024-01-03,Weekday,None,0,0,87,Paneer Butter Masala,15,16,1,3300,88.0
+2024-01-03,Weekday,None,0,0,87,Dosa,13,14,1,1560,48.0
+2024-01-03,Weekday,None,0,0,87,Burger,16,17,1,2400,60.0
+2024-01-03,Weekday,None,0,0,87,Pizza,18,19,1,5400,120.0
+2024-01-04,Weekday,None,0,0,69,Biryani,15,15,0,3750,0.0
+2024-01-04,Weekday,None,0,0,69,Paneer Butter Masala,12,14,2,2640,176.0
+2024-01-04,Weekday,None,0,0,69,Dosa,10,10,0,1200,0.0
+2024-01-04,Weekday,None,0,0,69,Burger,13,13,0,1950,0.0
+2024-01-04,Weekday,None,0,0,69,Pizza,14,15,1,4200,120.0
+2024-01-05,Weekday,None,0,0,79,Biryani,17,19,2,4250,200.0
+2024-01-05,Weekday,None,0,0,79,Paneer Butter Masala,14,14,0,3080,0.0
+2024-01-05,Weekday,None,0,0,79,Dosa,11,12,1,1320,48.0
+2024-01-05,Weekday,None,0,0,79,Burger,15,16,1,2250,60.0
+2024-01-05,Weekday,None,0,0,79,Pizza,16,16,0,4800,0.0
+2024-01-06,Weekend,None,0,0,113,Biryani,25,29,4,6250,400.0
+2024-01-06,Weekend,None,0,0,113,Paneer Butter Masala,20,21,1,4400,88.0
+2024-01-06,Weekend,None,0,0,113,Dosa,16,17,1,1920,48.0
+2024-01-06,Weekend,None,0,0,113,Burger,22,25,3,3300,180.0
+2024-01-06,Weekend,None,0,0,113,Pizza,23,25,2,6900,240.0
+2024-01-07,Weekend,None,0,0,107,Biryani,24,25,1,6000,100.0
+2024-01-07,Weekend,None,0,0,107,Paneer Butter Masala,19,22,3,4180,264.0
+2024-01-07,Weekend,None,0,0,107,Dosa,16,17,1,1920,48.0
+2024-01-07,Weekend,None,0,0,107,Burger,20,22,2,3000,120.0
+2024-01-07,Weekend,None,0,0,107,Pizza,22,24,2,6600,240.0
+2024-01-08,Weekday,None,0,0,69,Biryani,15,17,2,3750,200.0
+2024-01-08,Weekday,None,0,0,69,Paneer Butter Masala,12,12,0,2640,0.0
+2024-01-08,Weekday,None,0,0,69,Dosa,10,11,1,1200,48.0
+2024-01-08,Weekday,None,0,0,69,Burger,13,14,1,1950,60.0
+2024-01-08,Weekday,None,0,0,69,Pizza,14,15,1,4200,120.0
+2024-01-09,Weekday,None,0,0,75,Biryani,16,17,1,4000,100.0
+2024-01-09,Weekday,None,0,0,75,Paneer Butter Masala,13,14,1,2860,88.0
+2024-01-09,Weekday,None,0,0,75,Dosa,11,12,1,1320,48.0
+2024-01-09,Weekday,None,0,0,75,Burger,14,16,2,2100,120.0
+2024-01-09,Weekday,None,0,0,75,Pizza,15,17,2,4500,240.0
+2024-01-10,Weekday,None,0,0,74,Biryani,16,18,2,4000,200.0
+2024-01-10,Weekday,None,0,0,74,Paneer Butter Masala,13,14,1,2860,88.0
+2024-01-10,Weekday,None,0,0,74,Dosa,11,12,1,1320,48.0
+2024-01-10,Weekday,None,0,0,74,Burger,14,15,1,2100,60.0
+2024-01-10,Weekday,None,0,0,74,Pizza,15,16,1,4500,120.0
+2024-01-11,Weekday,None,0,0,60,Biryani,13,13,0,3250,0.0
+2024-01-11,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-01-11,Weekday,None,0,0,60,Dosa,9,9,0,1080,0.0
+2024-01-11,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-01-11,Weekday,None,0,0,60,Pizza,12,12,0,3600,0.0
+2024-01-12,Weekday,None,0,0,67,Biryani,15,17,2,3750,200.0
+2024-01-12,Weekday,None,0,0,67,Paneer Butter Masala,12,13,1,2640,88.0
+2024-01-12,Weekday,None,0,0,67,Dosa,10,10,0,1200,0.0
+2024-01-12,Weekday,None,0,0,67,Burger,13,14,1,1950,60.0
+2024-01-12,Weekday,None,0,0,67,Pizza,14,14,0,4200,0.0
+2024-01-13,Weekend,None,0,0,107,Biryani,24,26,2,6000,200.0
+2024-01-13,Weekend,None,0,0,107,Paneer Butter Masala,19,20,1,4180,88.0
+2024-01-13,Weekend,None,0,0,107,Dosa,16,17,1,1920,48.0
+2024-01-13,Weekend,None,0,0,107,Burger,20,23,3,3000,180.0
+2024-01-13,Weekend,None,0,0,107,Pizza,22,25,3,6600,360.0
+2024-01-14,Weekend,None,0,0,121,Biryani,27,31,4,6750,400.0
+2024-01-14,Weekend,None,0,0,121,Paneer Butter Masala,21,23,2,4620,176.0
+2024-01-14,Weekend,None,0,0,121,Dosa,18,19,1,2160,48.0
+2024-01-14,Weekend,None,0,0,121,Burger,23,26,3,3450,180.0
+2024-01-14,Weekend,None,0,0,121,Pizza,25,29,4,7500,480.0
+2024-01-15,Weekday,None,0,0,73,Biryani,16,17,1,4000,100.0
+2024-01-15,Weekday,None,0,0,73,Paneer Butter Masala,13,14,1,2860,88.0
+2024-01-15,Weekday,None,0,0,73,Dosa,10,11,1,1200,48.0
+2024-01-15,Weekday,None,0,0,73,Burger,14,14,0,2100,0.0
+2024-01-15,Weekday,None,0,0,73,Pizza,15,15,0,4500,0.0
+2024-01-16,Weekday,None,0,0,66,Biryani,14,15,1,3500,100.0
+2024-01-16,Weekday,None,0,0,66,Paneer Butter Masala,11,12,1,2420,88.0
+2024-01-16,Weekday,None,0,0,66,Dosa,9,10,1,1080,48.0
+2024-01-16,Weekday,None,0,0,66,Burger,12,12,0,1800,0.0
+2024-01-16,Weekday,None,0,0,66,Pizza,13,14,1,3900,120.0
+2024-01-17,Weekday,None,0,0,88,Biryani,19,20,1,4750,100.0
+2024-01-17,Weekday,None,0,0,88,Paneer Butter Masala,15,15,0,3300,0.0
+2024-01-17,Weekday,None,0,0,88,Dosa,13,14,1,1560,48.0
+2024-01-17,Weekday,None,0,0,88,Burger,17,18,1,2550,60.0
+2024-01-17,Weekday,None,0,0,88,Pizza,18,21,3,5400,360.0
+2024-01-18,Weekday,None,0,0,84,Biryani,18,19,1,4500,100.0
+2024-01-18,Weekday,None,0,0,84,Paneer Butter Masala,15,16,1,3300,88.0
+2024-01-18,Weekday,None,0,0,84,Dosa,12,12,0,1440,0.0
+2024-01-18,Weekday,None,0,0,84,Burger,16,17,1,2400,60.0
+2024-01-18,Weekday,None,0,0,84,Pizza,17,20,3,5100,360.0
+2024-01-19,Weekday,None,0,0,82,Biryani,18,21,3,4500,300.0
+2024-01-19,Weekday,None,0,0,82,Paneer Butter Masala,14,15,1,3080,88.0
+2024-01-19,Weekday,None,0,0,82,Dosa,12,12,0,1440,0.0
+2024-01-19,Weekday,None,0,0,82,Burger,15,16,1,2250,60.0
+2024-01-19,Weekday,None,0,0,82,Pizza,17,18,1,5100,120.0
+2024-01-20,Weekend,None,0,0,102,Biryani,22,23,1,5500,100.0
+2024-01-20,Weekend,None,0,0,102,Paneer Butter Masala,18,20,2,3960,176.0
+2024-01-20,Weekend,None,0,0,102,Dosa,15,16,1,1800,48.0
+2024-01-20,Weekend,None,0,0,102,Burger,19,20,1,2850,60.0
+2024-01-20,Weekend,None,0,0,102,Pizza,21,22,1,6300,120.0
+2024-01-21,Weekend,None,0,0,114,Biryani,25,26,1,6250,100.0
+2024-01-21,Weekend,None,0,0,114,Paneer Butter Masala,20,21,1,4400,88.0
+2024-01-21,Weekend,None,0,0,114,Dosa,17,19,2,2040,96.0
+2024-01-21,Weekend,None,0,0,114,Burger,22,24,2,3300,120.0
+2024-01-21,Weekend,None,0,0,114,Pizza,23,24,1,6900,120.0
+2024-01-22,Weekday,None,0,0,71,Biryani,15,16,1,3750,100.0
+2024-01-22,Weekday,None,0,0,71,Paneer Butter Masala,12,13,1,2640,88.0
+2024-01-22,Weekday,None,0,0,71,Dosa,10,10,0,1200,0.0
+2024-01-22,Weekday,None,0,0,71,Burger,13,14,1,1950,60.0
+2024-01-22,Weekday,None,0,0,71,Pizza,14,14,0,4200,0.0
+2024-01-23,Weekday,None,0,0,61,Biryani,13,14,1,3250,100.0
+2024-01-23,Weekday,None,0,0,61,Paneer Butter Masala,10,10,0,2200,0.0
+2024-01-23,Weekday,None,0,0,61,Dosa,9,9,0,1080,0.0
+2024-01-23,Weekday,None,0,0,61,Burger,11,12,1,1650,60.0
+2024-01-23,Weekday,None,0,0,61,Pizza,12,13,1,3600,120.0
+2024-01-24,Weekday,None,0,0,85,Biryani,19,22,3,4750,300.0
+2024-01-24,Weekday,None,0,0,85,Paneer Butter Masala,15,16,1,3300,88.0
+2024-01-24,Weekday,None,0,0,85,Dosa,12,13,1,1440,48.0
+2024-01-24,Weekday,None,0,0,85,Burger,16,18,2,2400,120.0
+2024-01-24,Weekday,None,0,0,85,Pizza,17,18,1,5100,120.0
+2024-01-25,Weekday,None,0,0,83,Biryani,18,20,2,4500,200.0
+2024-01-25,Weekday,None,0,0,83,Paneer Butter Masala,14,16,2,3080,176.0
+2024-01-25,Weekday,None,0,0,83,Dosa,12,13,1,1440,48.0
+2024-01-25,Weekday,None,0,0,83,Burger,16,18,2,2400,120.0
+2024-01-25,Weekday,None,0,0,83,Pizza,17,19,2,5100,240.0
+2024-01-26,Weekday,None,0,0,86,Biryani,19,20,1,4750,100.0
+2024-01-26,Weekday,None,0,0,86,Paneer Butter Masala,15,15,0,3300,0.0
+2024-01-26,Weekday,None,0,0,86,Dosa,12,13,1,1440,48.0
+2024-01-26,Weekday,None,0,0,86,Burger,16,18,2,2400,120.0
+2024-01-26,Weekday,None,0,0,86,Pizza,18,18,0,5400,0.0
+2024-01-27,Weekend,None,0,0,118,Biryani,26,28,2,6500,200.0
+2024-01-27,Weekend,None,0,0,118,Paneer Butter Masala,21,22,1,4620,88.0
+2024-01-27,Weekend,None,0,0,118,Dosa,17,20,3,2040,144.0
+2024-01-27,Weekend,None,0,0,118,Burger,23,25,2,3450,120.0
+2024-01-27,Weekend,None,0,0,118,Pizza,24,27,3,7200,360.0
+2024-01-28,Weekend,None,0,0,110,Biryani,24,26,2,6000,200.0
+2024-01-28,Weekend,None,0,0,110,Paneer Butter Masala,19,20,1,4180,88.0
+2024-01-28,Weekend,None,0,0,110,Dosa,16,19,3,1920,144.0
+2024-01-28,Weekend,None,0,0,110,Burger,21,24,3,3150,180.0
+2024-01-28,Weekend,None,0,0,110,Pizza,23,25,2,6900,240.0
+2024-01-29,Weekday,None,0,0,85,Biryani,19,22,3,4750,300.0
+2024-01-29,Weekday,None,0,0,85,Paneer Butter Masala,15,16,1,3300,88.0
+2024-01-29,Weekday,None,0,0,85,Dosa,12,13,1,1440,48.0
+2024-01-29,Weekday,None,0,0,85,Burger,16,19,3,2400,180.0
+2024-01-29,Weekday,None,0,0,85,Pizza,17,20,3,5100,360.0
+2024-01-30,Weekday,None,0,0,86,Biryani,19,20,1,4750,100.0
+2024-01-30,Weekday,None,0,0,86,Paneer Butter Masala,15,16,1,3300,88.0
+2024-01-30,Weekday,None,0,0,86,Dosa,12,13,1,1440,48.0
+2024-01-30,Weekday,None,0,0,86,Burger,16,18,2,2400,120.0
+2024-01-30,Weekday,None,0,0,86,Pizza,18,21,3,5400,360.0
+2024-01-31,Weekday,None,0,0,60,Biryani,13,14,1,3250,100.0
+2024-01-31,Weekday,None,0,0,60,Paneer Butter Masala,10,10,0,2200,0.0
+2024-01-31,Weekday,None,0,0,60,Dosa,9,9,0,1080,0.0
+2024-01-31,Weekday,None,0,0,60,Burger,11,13,2,1650,120.0
+2024-01-31,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-02-01,Weekday,None,0,0,89,Biryani,20,23,3,5000,300.0
+2024-02-01,Weekday,None,0,0,89,Paneer Butter Masala,16,19,3,3520,264.0
+2024-02-01,Weekday,None,0,0,89,Dosa,13,14,1,1560,48.0
+2024-02-01,Weekday,None,0,0,89,Burger,17,18,1,2550,60.0
+2024-02-01,Weekday,None,0,0,89,Pizza,18,20,2,5400,240.0
+2024-02-02,Weekday,None,0,0,88,Biryani,19,20,1,4750,100.0
+2024-02-02,Weekday,None,0,0,88,Paneer Butter Masala,15,17,2,3300,176.0
+2024-02-02,Weekday,None,0,0,88,Dosa,13,14,1,1560,48.0
+2024-02-02,Weekday,None,0,0,88,Burger,17,18,1,2550,60.0
+2024-02-02,Weekday,None,0,0,88,Pizza,18,20,2,5400,240.0
+2024-02-03,Weekend,None,0,0,106,Biryani,23,26,3,5750,300.0
+2024-02-03,Weekend,None,0,0,106,Paneer Butter Masala,19,20,1,4180,88.0
+2024-02-03,Weekend,None,0,0,106,Dosa,15,16,1,1800,48.0
+2024-02-03,Weekend,None,0,0,106,Burger,20,22,2,3000,120.0
+2024-02-03,Weekend,None,0,0,106,Pizza,22,25,3,6600,360.0
+2024-02-04,Weekend,None,0,0,129,Biryani,29,34,5,7250,500.0
+2024-02-04,Weekend,None,0,0,129,Paneer Butter Masala,23,25,2,5060,176.0
+2024-02-04,Weekend,None,0,0,129,Dosa,19,22,3,2280,144.0
+2024-02-04,Weekend,None,0,0,129,Burger,25,28,3,3750,180.0
+2024-02-04,Weekend,None,0,0,129,Pizza,27,31,4,8100,480.0
+2024-02-05,Weekday,None,0,0,87,Biryani,19,21,2,4750,200.0
+2024-02-05,Weekday,None,0,0,87,Paneer Butter Masala,15,17,2,3300,176.0
+2024-02-05,Weekday,None,0,0,87,Dosa,13,14,1,1560,48.0
+2024-02-05,Weekday,None,0,0,87,Burger,16,17,1,2400,60.0
+2024-02-05,Weekday,None,0,0,87,Pizza,18,20,2,5400,240.0
+2024-02-06,Weekday,None,0,0,76,Biryani,17,20,3,4250,300.0
+2024-02-06,Weekday,None,0,0,76,Paneer Butter Masala,13,14,1,2860,88.0
+2024-02-06,Weekday,None,0,0,76,Dosa,11,12,1,1320,48.0
+2024-02-06,Weekday,None,0,0,76,Burger,14,16,2,2100,120.0
+2024-02-06,Weekday,None,0,0,76,Pizza,15,17,2,4500,240.0
+2024-02-07,Weekday,None,0,1,123,Biryani,27,30,3,6750,300.0
+2024-02-07,Weekday,None,0,1,123,Paneer Butter Masala,22,26,4,4840,352.0
+2024-02-07,Weekday,None,0,1,123,Dosa,18,21,3,2160,144.0
+2024-02-07,Weekday,None,0,1,123,Burger,23,27,4,3450,240.0
+2024-02-07,Weekday,None,0,1,123,Pizza,25,27,2,7500,240.0
+2024-02-08,Weekday,None,0,0,82,Biryani,18,19,1,4500,100.0
+2024-02-08,Weekday,None,0,0,82,Paneer Butter Masala,14,15,1,3080,88.0
+2024-02-08,Weekday,None,0,0,82,Dosa,12,13,1,1440,48.0
+2024-02-08,Weekday,None,0,0,82,Burger,15,16,1,2250,60.0
+2024-02-08,Weekday,None,0,0,82,Pizza,17,20,3,5100,360.0
+2024-02-09,Weekday,None,0,0,73,Biryani,16,17,1,4000,100.0
+2024-02-09,Weekday,None,0,0,73,Paneer Butter Masala,13,14,1,2860,88.0
+2024-02-09,Weekday,None,0,0,73,Dosa,10,11,1,1200,48.0
+2024-02-09,Weekday,None,0,0,73,Burger,14,14,0,2100,0.0
+2024-02-09,Weekday,None,0,0,73,Pizza,15,16,1,4500,120.0
+2024-02-10,Weekend,None,0,0,116,Biryani,26,30,4,6500,400.0
+2024-02-10,Weekend,None,0,0,116,Paneer Butter Masala,20,21,1,4400,88.0
+2024-02-10,Weekend,None,0,0,116,Dosa,17,19,2,2040,96.0
+2024-02-10,Weekend,None,0,0,116,Burger,22,24,2,3300,120.0
+2024-02-10,Weekend,None,0,0,116,Pizza,24,26,2,7200,240.0
+2024-02-11,Weekend,None,0,0,124,Biryani,27,30,3,6750,300.0
+2024-02-11,Weekend,None,0,0,124,Paneer Butter Masala,22,23,1,4840,88.0
+2024-02-11,Weekend,None,0,0,124,Dosa,18,18,0,2160,0.0
+2024-02-11,Weekend,None,0,0,124,Burger,24,27,3,3600,180.0
+2024-02-11,Weekend,None,0,0,124,Pizza,26,28,2,7800,240.0
+2024-02-12,Weekday,None,0,0,73,Biryani,16,18,2,4000,200.0
+2024-02-12,Weekday,None,0,0,73,Paneer Butter Masala,13,15,2,2860,176.0
+2024-02-12,Weekday,None,0,0,73,Dosa,10,11,1,1200,48.0
+2024-02-12,Weekday,None,0,0,73,Burger,14,15,1,2100,60.0
+2024-02-12,Weekday,None,0,0,73,Pizza,15,15,0,4500,0.0
+2024-02-13,Weekday,None,0,0,81,Biryani,18,19,1,4500,100.0
+2024-02-13,Weekday,None,0,0,81,Paneer Butter Masala,14,15,1,3080,88.0
+2024-02-13,Weekday,None,0,0,81,Dosa,12,14,2,1440,96.0
+2024-02-13,Weekday,None,0,0,81,Burger,15,17,2,2250,120.0
+2024-02-13,Weekday,None,0,0,81,Pizza,17,20,3,5100,360.0
+2024-02-14,Weekday,None,0,0,69,Biryani,15,17,2,3750,200.0
+2024-02-14,Weekday,None,0,0,69,Paneer Butter Masala,12,13,1,2640,88.0
+2024-02-14,Weekday,None,0,0,69,Dosa,10,10,0,1200,0.0
+2024-02-14,Weekday,None,0,0,69,Burger,13,14,1,1950,60.0
+2024-02-14,Weekday,None,0,0,69,Pizza,14,16,2,4200,240.0
+2024-02-15,Weekday,None,0,0,64,Biryani,14,15,1,3500,100.0
+2024-02-15,Weekday,None,0,0,64,Paneer Butter Masala,11,12,1,2420,88.0
+2024-02-15,Weekday,None,0,0,64,Dosa,9,9,0,1080,0.0
+2024-02-15,Weekday,None,0,0,64,Burger,12,13,1,1800,60.0
+2024-02-15,Weekday,None,0,0,64,Pizza,13,15,2,3900,240.0
+2024-02-16,Weekday,None,0,0,75,Biryani,16,19,3,4000,300.0
+2024-02-16,Weekday,None,0,0,75,Paneer Butter Masala,13,14,1,2860,88.0
+2024-02-16,Weekday,None,0,0,75,Dosa,11,12,1,1320,48.0
+2024-02-16,Weekday,None,0,0,75,Burger,14,16,2,2100,120.0
+2024-02-16,Weekday,None,0,0,75,Pizza,15,16,1,4500,120.0
+2024-02-17,Weekend,None,0,0,125,Biryani,28,29,1,7000,100.0
+2024-02-17,Weekend,None,0,0,125,Paneer Butter Masala,22,26,4,4840,352.0
+2024-02-17,Weekend,None,0,0,125,Dosa,18,21,3,2160,144.0
+2024-02-17,Weekend,None,0,0,125,Burger,24,27,3,3600,180.0
+2024-02-17,Weekend,None,0,0,125,Pizza,26,28,2,7800,240.0
+2024-02-18,Weekend,None,0,0,100,Biryani,22,24,2,5500,200.0
+2024-02-18,Weekend,None,0,0,100,Paneer Butter Masala,18,19,1,3960,88.0
+2024-02-18,Weekend,None,0,0,100,Dosa,15,15,0,1800,0.0
+2024-02-18,Weekend,None,0,0,100,Burger,19,20,1,2850,60.0
+2024-02-18,Weekend,None,0,0,100,Pizza,21,24,3,6300,360.0
+2024-02-19,Weekday,None,0,0,88,Biryani,19,22,3,4750,300.0
+2024-02-19,Weekday,None,0,0,88,Paneer Butter Masala,15,16,1,3300,88.0
+2024-02-19,Weekday,None,0,0,88,Dosa,13,14,1,1560,48.0
+2024-02-19,Weekday,None,0,0,88,Burger,17,18,1,2550,60.0
+2024-02-19,Weekday,None,0,0,88,Pizza,18,19,1,5400,120.0
+2024-02-20,Weekday,None,0,0,64,Biryani,14,14,0,3500,0.0
+2024-02-20,Weekday,None,0,0,64,Paneer Butter Masala,11,12,1,2420,88.0
+2024-02-20,Weekday,None,0,0,64,Dosa,9,9,0,1080,0.0
+2024-02-20,Weekday,None,0,0,64,Burger,12,12,0,1800,0.0
+2024-02-20,Weekday,None,0,0,64,Pizza,13,14,1,3900,120.0
+2024-02-21,Weekday,None,0,1,89,Biryani,20,22,2,5000,200.0
+2024-02-21,Weekday,None,0,1,89,Paneer Butter Masala,16,17,1,3520,88.0
+2024-02-21,Weekday,None,0,1,89,Dosa,13,14,1,1560,48.0
+2024-02-21,Weekday,None,0,1,89,Burger,17,19,2,2550,120.0
+2024-02-21,Weekday,None,0,1,89,Pizza,18,19,1,5400,120.0
+2024-02-22,Weekday,None,0,0,82,Biryani,18,19,1,4500,100.0
+2024-02-22,Weekday,None,0,0,82,Paneer Butter Masala,14,16,2,3080,176.0
+2024-02-22,Weekday,None,0,0,82,Dosa,12,14,2,1440,96.0
+2024-02-22,Weekday,None,0,0,82,Burger,15,16,1,2250,60.0
+2024-02-22,Weekday,None,0,0,82,Pizza,17,17,0,5100,0.0
+2024-02-23,Weekday,None,0,0,60,Biryani,13,14,1,3250,100.0
+2024-02-23,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-02-23,Weekday,None,0,0,60,Dosa,9,10,1,1080,48.0
+2024-02-23,Weekday,None,0,0,60,Burger,11,13,2,1650,120.0
+2024-02-23,Weekday,None,0,0,60,Pizza,12,14,2,3600,240.0
+2024-02-24,Weekend,None,0,0,131,Biryani,29,34,5,7250,500.0
+2024-02-24,Weekend,None,0,0,131,Paneer Butter Masala,23,26,3,5060,264.0
+2024-02-24,Weekend,None,0,0,131,Dosa,19,21,2,2280,96.0
+2024-02-24,Weekend,None,0,0,131,Burger,25,28,3,3750,180.0
+2024-02-24,Weekend,None,0,0,131,Pizza,27,30,3,8100,360.0
+2024-02-25,Weekend,None,0,0,136,Biryani,30,34,4,7500,400.0
+2024-02-25,Weekend,None,0,0,136,Paneer Butter Masala,24,28,4,5280,352.0
+2024-02-25,Weekend,None,0,0,136,Dosa,20,22,2,2400,96.0
+2024-02-25,Weekend,None,0,0,136,Burger,26,28,2,3900,120.0
+2024-02-25,Weekend,None,0,0,136,Pizza,28,30,2,8400,240.0
+2024-02-26,Weekday,None,0,0,73,Biryani,16,16,0,4000,0.0
+2024-02-26,Weekday,None,0,0,73,Paneer Butter Masala,13,13,0,2860,0.0
+2024-02-26,Weekday,None,0,0,73,Dosa,10,11,1,1200,48.0
+2024-02-26,Weekday,None,0,0,73,Burger,14,14,0,2100,0.0
+2024-02-26,Weekday,None,0,0,73,Pizza,15,16,1,4500,120.0
+2024-02-27,Weekday,None,0,0,85,Biryani,19,20,1,4750,100.0
+2024-02-27,Weekday,None,0,0,85,Paneer Butter Masala,15,16,1,3300,88.0
+2024-02-27,Weekday,None,0,0,85,Dosa,12,13,1,1440,48.0
+2024-02-27,Weekday,None,0,0,85,Burger,16,18,2,2400,120.0
+2024-02-27,Weekday,None,0,0,85,Pizza,17,18,1,5100,120.0
+2024-02-28,Weekday,None,0,0,83,Biryani,18,20,2,4500,200.0
+2024-02-28,Weekday,None,0,0,83,Paneer Butter Masala,14,16,2,3080,176.0
+2024-02-28,Weekday,None,0,0,83,Dosa,12,13,1,1440,48.0
+2024-02-28,Weekday,None,0,0,83,Burger,16,17,1,2400,60.0
+2024-02-28,Weekday,None,0,0,83,Pizza,17,19,2,5100,240.0
+2024-02-29,Weekday,None,0,0,76,Biryani,17,19,2,4250,200.0
+2024-02-29,Weekday,None,0,0,76,Paneer Butter Masala,13,13,0,2860,0.0
+2024-02-29,Weekday,None,0,0,76,Dosa,11,11,0,1320,0.0
+2024-02-29,Weekday,None,0,0,76,Burger,14,15,1,2100,60.0
+2024-02-29,Weekday,None,0,0,76,Pizza,15,17,2,4500,240.0
+2024-03-01,Weekday,None,0,0,71,Biryani,15,16,1,3750,100.0
+2024-03-01,Weekday,None,0,0,71,Paneer Butter Masala,12,13,1,2640,88.0
+2024-03-01,Weekday,None,0,0,71,Dosa,10,11,1,1200,48.0
+2024-03-01,Weekday,None,0,0,71,Burger,13,13,0,1950,0.0
+2024-03-01,Weekday,None,0,0,71,Pizza,14,16,2,4200,240.0
+2024-03-02,Weekend,None,0,0,124,Biryani,27,29,2,6750,200.0
+2024-03-02,Weekend,None,0,0,124,Paneer Butter Masala,22,26,4,4840,352.0
+2024-03-02,Weekend,None,0,0,124,Dosa,18,19,1,2160,48.0
+2024-03-02,Weekend,None,0,0,124,Burger,24,25,1,3600,60.0
+2024-03-02,Weekend,None,0,0,124,Pizza,26,30,4,7800,480.0
+2024-03-03,Weekend,None,0,0,106,Biryani,23,27,4,5750,400.0
+2024-03-03,Weekend,None,0,0,106,Paneer Butter Masala,19,21,2,4180,176.0
+2024-03-03,Weekend,None,0,0,106,Dosa,15,16,1,1800,48.0
+2024-03-03,Weekend,None,0,0,106,Burger,20,22,2,3000,120.0
+2024-03-03,Weekend,None,0,0,106,Pizza,22,23,1,6600,120.0
+2024-03-04,Weekday,None,0,0,71,Biryani,15,16,1,3750,100.0
+2024-03-04,Weekday,None,0,0,71,Paneer Butter Masala,12,13,1,2640,88.0
+2024-03-04,Weekday,None,0,0,71,Dosa,10,11,1,1200,48.0
+2024-03-04,Weekday,None,0,0,71,Burger,13,15,2,1950,120.0
+2024-03-04,Weekday,None,0,0,71,Pizza,14,16,2,4200,240.0
+2024-03-05,Weekday,None,0,0,69,Biryani,15,17,2,3750,200.0
+2024-03-05,Weekday,None,0,0,69,Paneer Butter Masala,12,14,2,2640,176.0
+2024-03-05,Weekday,None,0,0,69,Dosa,10,10,0,1200,0.0
+2024-03-05,Weekday,None,0,0,69,Burger,13,15,2,1950,120.0
+2024-03-05,Weekday,None,0,0,69,Pizza,14,15,1,4200,120.0
+2024-03-06,Weekday,None,0,0,74,Biryani,16,17,1,4000,100.0
+2024-03-06,Weekday,None,0,0,74,Paneer Butter Masala,13,15,2,2860,176.0
+2024-03-06,Weekday,None,0,0,74,Dosa,11,12,1,1320,48.0
+2024-03-06,Weekday,None,0,0,74,Burger,14,14,0,2100,0.0
+2024-03-06,Weekday,None,0,0,74,Pizza,15,15,0,4500,0.0
+2024-03-07,Weekday,None,0,0,69,Biryani,15,16,1,3750,100.0
+2024-03-07,Weekday,None,0,0,69,Paneer Butter Masala,12,14,2,2640,176.0
+2024-03-07,Weekday,None,0,0,69,Dosa,10,10,0,1200,0.0
+2024-03-07,Weekday,None,0,0,69,Burger,13,14,1,1950,60.0
+2024-03-07,Weekday,None,0,0,69,Pizza,14,15,1,4200,120.0
+2024-03-08,Weekday,None,0,0,72,Biryani,16,17,1,4000,100.0
+2024-03-08,Weekday,None,0,0,72,Paneer Butter Masala,12,14,2,2640,176.0
+2024-03-08,Weekday,None,0,0,72,Dosa,10,11,1,1200,48.0
+2024-03-08,Weekday,None,0,0,72,Burger,14,16,2,2100,120.0
+2024-03-08,Weekday,None,0,0,72,Pizza,15,17,2,4500,240.0
+2024-03-09,Weekend,None,0,0,130,Biryani,29,32,3,7250,300.0
+2024-03-09,Weekend,None,0,0,130,Paneer Butter Masala,23,25,2,5060,176.0
+2024-03-09,Weekend,None,0,0,130,Dosa,19,21,2,2280,96.0
+2024-03-09,Weekend,None,0,0,130,Burger,25,27,2,3750,120.0
+2024-03-09,Weekend,None,0,0,130,Pizza,27,29,2,8100,240.0
+2024-03-10,Weekend,None,0,0,112,Biryani,25,27,2,6250,200.0
+2024-03-10,Weekend,None,0,0,112,Paneer Butter Masala,20,22,2,4400,176.0
+2024-03-10,Weekend,None,0,0,112,Dosa,16,18,2,1920,96.0
+2024-03-10,Weekend,None,0,0,112,Burger,21,24,3,3150,180.0
+2024-03-10,Weekend,None,0,0,112,Pizza,23,26,3,6900,360.0
+2024-03-11,Weekday,None,0,0,62,Biryani,13,14,1,3250,100.0
+2024-03-11,Weekday,None,0,0,62,Paneer Butter Masala,11,13,2,2420,176.0
+2024-03-11,Weekday,None,0,0,62,Dosa,9,9,0,1080,0.0
+2024-03-11,Weekday,None,0,0,62,Burger,12,13,1,1800,60.0
+2024-03-11,Weekday,None,0,0,62,Pizza,13,15,2,3900,240.0
+2024-03-12,Weekday,None,0,0,65,Biryani,14,16,2,3500,200.0
+2024-03-12,Weekday,None,0,0,65,Paneer Butter Masala,11,13,2,2420,176.0
+2024-03-12,Weekday,None,0,0,65,Dosa,9,10,1,1080,48.0
+2024-03-12,Weekday,None,0,0,65,Burger,12,13,1,1800,60.0
+2024-03-12,Weekday,None,0,0,65,Pizza,13,13,0,3900,0.0
+2024-03-13,Weekday,None,0,0,87,Biryani,19,20,1,4750,100.0
+2024-03-13,Weekday,None,0,0,87,Paneer Butter Masala,15,16,1,3300,88.0
+2024-03-13,Weekday,None,0,0,87,Dosa,13,15,2,1560,96.0
+2024-03-13,Weekday,None,0,0,87,Burger,16,18,2,2400,120.0
+2024-03-13,Weekday,None,0,0,87,Pizza,18,20,2,5400,240.0
+2024-03-14,Weekday,None,0,0,60,Biryani,13,14,1,3250,100.0
+2024-03-14,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-03-14,Weekday,None,0,0,60,Dosa,9,10,1,1080,48.0
+2024-03-14,Weekday,None,0,0,60,Burger,11,11,0,1650,0.0
+2024-03-14,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-03-15,Weekday,None,0,1,93,Biryani,20,22,2,5000,200.0
+2024-03-15,Weekday,None,0,1,93,Paneer Butter Masala,16,17,1,3520,88.0
+2024-03-15,Weekday,None,0,1,93,Dosa,13,14,1,1560,48.0
+2024-03-15,Weekday,None,0,1,93,Burger,18,19,1,2700,60.0
+2024-03-15,Weekday,None,0,1,93,Pizza,19,21,2,5700,240.0
+2024-03-16,Weekend,None,0,0,127,Biryani,28,29,1,7000,100.0
+2024-03-16,Weekend,None,0,0,127,Paneer Butter Masala,22,26,4,4840,352.0
+2024-03-16,Weekend,None,0,0,127,Dosa,19,22,3,2280,144.0
+2024-03-16,Weekend,None,0,0,127,Burger,24,27,3,3600,180.0
+2024-03-16,Weekend,None,0,0,127,Pizza,26,29,3,7800,360.0
+2024-03-17,Weekend,None,0,0,119,Biryani,26,29,3,6500,300.0
+2024-03-17,Weekend,None,0,0,119,Paneer Butter Masala,21,22,1,4620,88.0
+2024-03-17,Weekend,None,0,0,119,Dosa,17,18,1,2040,48.0
+2024-03-17,Weekend,None,0,0,119,Burger,23,24,1,3450,60.0
+2024-03-17,Weekend,None,0,0,119,Pizza,24,28,4,7200,480.0
+2024-03-18,Weekday,None,0,0,64,Biryani,14,15,1,3500,100.0
+2024-03-18,Weekday,None,0,0,64,Paneer Butter Masala,11,12,1,2420,88.0
+2024-03-18,Weekday,None,0,0,64,Dosa,9,10,1,1080,48.0
+2024-03-18,Weekday,None,0,0,64,Burger,12,14,2,1800,120.0
+2024-03-18,Weekday,None,0,0,64,Pizza,13,13,0,3900,0.0
+2024-03-19,Weekday,None,0,0,60,Biryani,13,15,2,3250,200.0
+2024-03-19,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-03-19,Weekday,None,0,0,60,Dosa,9,10,1,1080,48.0
+2024-03-19,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-03-19,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-03-20,Weekday,None,0,0,86,Biryani,19,22,3,4750,300.0
+2024-03-20,Weekday,None,0,0,86,Paneer Butter Masala,15,17,2,3300,176.0
+2024-03-20,Weekday,None,0,0,86,Dosa,12,13,1,1440,48.0
+2024-03-20,Weekday,None,0,0,86,Burger,16,17,1,2400,60.0
+2024-03-20,Weekday,None,0,0,86,Pizza,18,19,1,5400,120.0
+2024-03-21,Weekday,None,0,0,65,Biryani,14,16,2,3500,200.0
+2024-03-21,Weekday,None,0,0,65,Paneer Butter Masala,11,12,1,2420,88.0
+2024-03-21,Weekday,None,0,0,65,Dosa,9,10,1,1080,48.0
+2024-03-21,Weekday,None,0,0,65,Burger,12,14,2,1800,120.0
+2024-03-21,Weekday,None,0,0,65,Pizza,13,14,1,3900,120.0
+2024-03-22,Weekday,None,0,0,69,Biryani,15,17,2,3750,200.0
+2024-03-22,Weekday,None,0,0,69,Paneer Butter Masala,12,13,1,2640,88.0
+2024-03-22,Weekday,None,0,0,69,Dosa,10,11,1,1200,48.0
+2024-03-22,Weekday,None,0,0,69,Burger,13,13,0,1950,0.0
+2024-03-22,Weekday,None,0,0,69,Pizza,14,16,2,4200,240.0
+2024-03-23,Weekend,None,0,0,100,Biryani,22,25,3,5500,300.0
+2024-03-23,Weekend,None,0,0,100,Paneer Butter Masala,18,20,2,3960,176.0
+2024-03-23,Weekend,None,0,0,100,Dosa,15,16,1,1800,48.0
+2024-03-23,Weekend,None,0,0,100,Burger,19,20,1,2850,60.0
+2024-03-23,Weekend,None,0,0,100,Pizza,21,24,3,6300,360.0
+2024-03-24,Weekend,None,0,0,102,Biryani,22,24,2,5500,200.0
+2024-03-24,Weekend,None,0,0,102,Paneer Butter Masala,18,21,3,3960,264.0
+2024-03-24,Weekend,None,0,0,102,Dosa,15,16,1,1800,48.0
+2024-03-24,Weekend,None,0,0,102,Burger,19,21,2,2850,120.0
+2024-03-24,Weekend,None,0,0,102,Pizza,21,24,3,6300,360.0
+2024-03-25,Weekday,Holi,1,0,97,Biryani,21,23,2,5250,200.0
+2024-03-25,Weekday,Holi,1,0,97,Paneer Butter Masala,17,18,1,3740,88.0
+2024-03-25,Weekday,Holi,1,0,97,Dosa,14,16,2,1680,96.0
+2024-03-25,Weekday,Holi,1,0,97,Burger,18,20,2,2700,120.0
+2024-03-25,Weekday,Holi,1,0,97,Pizza,20,23,3,6000,360.0
+2024-03-26,Weekday,None,0,0,87,Biryani,19,22,3,4750,300.0
+2024-03-26,Weekday,None,0,0,87,Paneer Butter Masala,15,17,2,3300,176.0
+2024-03-26,Weekday,None,0,0,87,Dosa,13,14,1,1560,48.0
+2024-03-26,Weekday,None,0,0,87,Burger,16,18,2,2400,120.0
+2024-03-26,Weekday,None,0,0,87,Pizza,18,19,1,5400,120.0
+2024-03-27,Weekday,None,0,0,84,Biryani,18,20,2,4500,200.0
+2024-03-27,Weekday,None,0,0,84,Paneer Butter Masala,15,17,2,3300,176.0
+2024-03-27,Weekday,None,0,0,84,Dosa,12,13,1,1440,48.0
+2024-03-27,Weekday,None,0,0,84,Burger,16,18,2,2400,120.0
+2024-03-27,Weekday,None,0,0,84,Pizza,17,20,3,5100,360.0
+2024-03-28,Weekday,None,0,0,63,Biryani,14,15,1,3500,100.0
+2024-03-28,Weekday,None,0,0,63,Paneer Butter Masala,11,12,1,2420,88.0
+2024-03-28,Weekday,None,0,0,63,Dosa,9,10,1,1080,48.0
+2024-03-28,Weekday,None,0,0,63,Burger,12,12,0,1800,0.0
+2024-03-28,Weekday,None,0,0,63,Pizza,13,13,0,3900,0.0
+2024-03-29,Weekday,None,0,0,61,Biryani,13,14,1,3250,100.0
+2024-03-29,Weekday,None,0,0,61,Paneer Butter Masala,10,11,1,2200,88.0
+2024-03-29,Weekday,None,0,0,61,Dosa,9,9,0,1080,0.0
+2024-03-29,Weekday,None,0,0,61,Burger,11,11,0,1650,0.0
+2024-03-29,Weekday,None,0,0,61,Pizza,12,12,0,3600,0.0
+2024-03-30,Weekend,None,0,0,130,Biryani,29,32,3,7250,300.0
+2024-03-30,Weekend,None,0,0,130,Paneer Butter Masala,23,26,3,5060,264.0
+2024-03-30,Weekend,None,0,0,130,Dosa,19,20,1,2280,48.0
+2024-03-30,Weekend,None,0,0,130,Burger,25,28,3,3750,180.0
+2024-03-30,Weekend,None,0,0,130,Pizza,27,30,3,8100,360.0
+2024-03-31,Weekend,None,0,0,126,Biryani,28,32,4,7000,400.0
+2024-03-31,Weekend,None,0,0,126,Paneer Butter Masala,22,23,1,4840,88.0
+2024-03-31,Weekend,None,0,0,126,Dosa,18,19,1,2160,48.0
+2024-03-31,Weekend,None,0,0,126,Burger,24,25,1,3600,60.0
+2024-03-31,Weekend,None,0,0,126,Pizza,26,27,1,7800,120.0
+2024-04-01,Weekday,None,0,0,88,Biryani,19,20,1,4750,100.0
+2024-04-01,Weekday,None,0,0,88,Paneer Butter Masala,15,16,1,3300,88.0
+2024-04-01,Weekday,None,0,0,88,Dosa,13,14,1,1560,48.0
+2024-04-01,Weekday,None,0,0,88,Burger,17,18,1,2550,60.0
+2024-04-01,Weekday,None,0,0,88,Pizza,18,21,3,5400,360.0
+2024-04-02,Weekday,None,0,0,85,Biryani,19,21,2,4750,200.0
+2024-04-02,Weekday,None,0,0,85,Paneer Butter Masala,15,15,0,3300,0.0
+2024-04-02,Weekday,None,0,0,85,Dosa,12,14,2,1440,96.0
+2024-04-02,Weekday,None,0,0,85,Burger,16,18,2,2400,120.0
+2024-04-02,Weekday,None,0,0,85,Pizza,17,18,1,5100,120.0
+2024-04-03,Weekday,None,0,0,75,Biryani,16,16,0,4000,0.0
+2024-04-03,Weekday,None,0,0,75,Paneer Butter Masala,13,14,1,2860,88.0
+2024-04-03,Weekday,None,0,0,75,Dosa,11,12,1,1320,48.0
+2024-04-03,Weekday,None,0,0,75,Burger,14,16,2,2100,120.0
+2024-04-03,Weekday,None,0,0,75,Pizza,15,16,1,4500,120.0
+2024-04-04,Weekday,None,0,0,83,Biryani,18,20,2,4500,200.0
+2024-04-04,Weekday,None,0,0,83,Paneer Butter Masala,14,15,1,3080,88.0
+2024-04-04,Weekday,None,0,0,83,Dosa,12,13,1,1440,48.0
+2024-04-04,Weekday,None,0,0,83,Burger,16,17,1,2400,60.0
+2024-04-04,Weekday,None,0,0,83,Pizza,17,19,2,5100,240.0
+2024-04-05,Weekday,None,0,0,83,Biryani,18,19,1,4500,100.0
+2024-04-05,Weekday,None,0,0,83,Paneer Butter Masala,14,16,2,3080,176.0
+2024-04-05,Weekday,None,0,0,83,Dosa,12,14,2,1440,96.0
+2024-04-05,Weekday,None,0,0,83,Burger,16,18,2,2400,120.0
+2024-04-05,Weekday,None,0,0,83,Pizza,17,17,0,5100,0.0
+2024-04-06,Weekend,None,0,0,137,Biryani,30,33,3,7500,300.0
+2024-04-06,Weekend,None,0,0,137,Paneer Butter Masala,24,26,2,5280,176.0
+2024-04-06,Weekend,None,0,0,137,Dosa,20,21,1,2400,48.0
+2024-04-06,Weekend,None,0,0,137,Burger,26,28,2,3900,120.0
+2024-04-06,Weekend,None,0,0,137,Pizza,28,29,1,8400,120.0
+2024-04-07,Weekend,None,0,0,138,Biryani,31,32,1,7750,100.0
+2024-04-07,Weekend,None,0,0,138,Paneer Butter Masala,24,27,3,5280,264.0
+2024-04-07,Weekend,None,0,0,138,Dosa,20,21,1,2400,48.0
+2024-04-07,Weekend,None,0,0,138,Burger,26,28,2,3900,120.0
+2024-04-07,Weekend,None,0,0,138,Pizza,28,31,3,8400,360.0
+2024-04-08,Weekday,None,0,0,68,Biryani,15,16,1,3750,100.0
+2024-04-08,Weekday,None,0,0,68,Paneer Butter Masala,12,12,0,2640,0.0
+2024-04-08,Weekday,None,0,0,68,Dosa,10,11,1,1200,48.0
+2024-04-08,Weekday,None,0,0,68,Burger,13,14,1,1950,60.0
+2024-04-08,Weekday,None,0,0,68,Pizza,14,16,2,4200,240.0
+2024-04-09,Weekday,None,0,0,78,Biryani,17,18,1,4250,100.0
+2024-04-09,Weekday,None,0,0,78,Paneer Butter Masala,14,15,1,3080,88.0
+2024-04-09,Weekday,None,0,0,78,Dosa,11,13,2,1320,96.0
+2024-04-09,Weekday,None,0,0,78,Burger,15,17,2,2250,120.0
+2024-04-09,Weekday,None,0,0,78,Pizza,16,17,1,4800,120.0
+2024-04-10,Weekday,None,0,0,65,Biryani,14,15,1,3500,100.0
+2024-04-10,Weekday,None,0,0,65,Paneer Butter Masala,11,11,0,2420,0.0
+2024-04-10,Weekday,None,0,0,65,Dosa,9,9,0,1080,0.0
+2024-04-10,Weekday,None,0,0,65,Burger,12,12,0,1800,0.0
+2024-04-10,Weekday,None,0,0,65,Pizza,13,14,1,3900,120.0
+2024-04-11,Weekday,None,0,0,70,Biryani,15,15,0,3750,0.0
+2024-04-11,Weekday,None,0,0,70,Paneer Butter Masala,12,14,2,2640,176.0
+2024-04-11,Weekday,None,0,0,70,Dosa,10,10,0,1200,0.0
+2024-04-11,Weekday,None,0,0,70,Burger,13,15,2,1950,120.0
+2024-04-11,Weekday,None,0,0,70,Pizza,14,14,0,4200,0.0
+2024-04-12,Weekday,None,0,0,64,Biryani,14,16,2,3500,200.0
+2024-04-12,Weekday,None,0,0,64,Paneer Butter Masala,11,11,0,2420,0.0
+2024-04-12,Weekday,None,0,0,64,Dosa,9,9,0,1080,0.0
+2024-04-12,Weekday,None,0,0,64,Burger,12,14,2,1800,120.0
+2024-04-12,Weekday,None,0,0,64,Pizza,13,15,2,3900,240.0
+2024-04-13,Weekend,None,0,0,129,Biryani,29,31,2,7250,200.0
+2024-04-13,Weekend,None,0,0,129,Paneer Butter Masala,23,26,3,5060,264.0
+2024-04-13,Weekend,None,0,0,129,Dosa,19,22,3,2280,144.0
+2024-04-13,Weekend,None,0,0,129,Burger,25,28,3,3750,180.0
+2024-04-13,Weekend,None,0,0,129,Pizza,27,30,3,8100,360.0
+2024-04-14,Weekend,None,0,0,104,Biryani,23,24,1,5750,100.0
+2024-04-14,Weekend,None,0,0,104,Paneer Butter Masala,18,19,1,3960,88.0
+2024-04-14,Weekend,None,0,0,104,Dosa,15,16,1,1800,48.0
+2024-04-14,Weekend,None,0,0,104,Burger,20,22,2,3000,120.0
+2024-04-14,Weekend,None,0,0,104,Pizza,21,22,1,6300,120.0
+2024-04-15,Weekday,None,0,0,85,Biryani,19,22,3,4750,300.0
+2024-04-15,Weekday,None,0,0,85,Paneer Butter Masala,15,15,0,3300,0.0
+2024-04-15,Weekday,None,0,0,85,Dosa,12,13,1,1440,48.0
+2024-04-15,Weekday,None,0,0,85,Burger,16,19,3,2400,180.0
+2024-04-15,Weekday,None,0,0,85,Pizza,17,18,1,5100,120.0
+2024-04-16,Weekday,None,0,0,65,Biryani,14,15,1,3500,100.0
+2024-04-16,Weekday,None,0,0,65,Paneer Butter Masala,11,11,0,2420,0.0
+2024-04-16,Weekday,None,0,0,65,Dosa,9,9,0,1080,0.0
+2024-04-16,Weekday,None,0,0,65,Burger,12,14,2,1800,120.0
+2024-04-16,Weekday,None,0,0,65,Pizza,13,14,1,3900,120.0
+2024-04-17,Weekday,None,0,0,60,Biryani,13,13,0,3250,0.0
+2024-04-17,Weekday,None,0,0,60,Paneer Butter Masala,10,10,0,2200,0.0
+2024-04-17,Weekday,None,0,0,60,Dosa,9,9,0,1080,0.0
+2024-04-17,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-04-17,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-04-18,Weekday,None,0,0,76,Biryani,17,20,3,4250,300.0
+2024-04-18,Weekday,None,0,0,76,Paneer Butter Masala,13,15,2,2860,176.0
+2024-04-18,Weekday,None,0,0,76,Dosa,11,12,1,1320,48.0
+2024-04-18,Weekday,None,0,0,76,Burger,14,16,2,2100,120.0
+2024-04-18,Weekday,None,0,0,76,Pizza,15,17,2,4500,240.0
+2024-04-19,Weekday,None,0,0,62,Biryani,13,13,0,3250,0.0
+2024-04-19,Weekday,None,0,0,62,Paneer Butter Masala,11,12,1,2420,88.0
+2024-04-19,Weekday,None,0,0,62,Dosa,9,10,1,1080,48.0
+2024-04-19,Weekday,None,0,0,62,Burger,12,14,2,1800,120.0
+2024-04-19,Weekday,None,0,0,62,Pizza,13,13,0,3900,0.0
+2024-04-20,Weekend,None,0,0,113,Biryani,25,29,4,6250,400.0
+2024-04-20,Weekend,None,0,0,113,Paneer Butter Masala,20,23,3,4400,264.0
+2024-04-20,Weekend,None,0,0,113,Dosa,16,17,1,1920,48.0
+2024-04-20,Weekend,None,0,0,113,Burger,22,23,1,3300,60.0
+2024-04-20,Weekend,None,0,0,113,Pizza,23,26,3,6900,360.0
+2024-04-21,Weekend,None,0,0,124,Biryani,27,31,4,6750,400.0
+2024-04-21,Weekend,None,0,0,124,Paneer Butter Masala,22,24,2,4840,176.0
+2024-04-21,Weekend,None,0,0,124,Dosa,18,21,3,2160,144.0
+2024-04-21,Weekend,None,0,0,124,Burger,24,26,2,3600,120.0
+2024-04-21,Weekend,None,0,0,124,Pizza,26,28,2,7800,240.0
+2024-04-22,Weekday,None,0,0,65,Biryani,14,15,1,3500,100.0
+2024-04-22,Weekday,None,0,0,65,Paneer Butter Masala,11,12,1,2420,88.0
+2024-04-22,Weekday,None,0,0,65,Dosa,9,10,1,1080,48.0
+2024-04-22,Weekday,None,0,0,65,Burger,12,13,1,1800,60.0
+2024-04-22,Weekday,None,0,0,65,Pizza,13,14,1,3900,120.0
+2024-04-23,Weekday,None,0,0,80,Biryani,18,21,3,4500,300.0
+2024-04-23,Weekday,None,0,0,80,Paneer Butter Masala,14,16,2,3080,176.0
+2024-04-23,Weekday,None,0,0,80,Dosa,12,12,0,1440,0.0
+2024-04-23,Weekday,None,0,0,80,Burger,15,17,2,2250,120.0
+2024-04-23,Weekday,None,0,0,80,Pizza,16,18,2,4800,240.0
+2024-04-24,Weekday,None,0,0,79,Biryani,17,19,2,4250,200.0
+2024-04-24,Weekday,None,0,0,79,Paneer Butter Masala,14,16,2,3080,176.0
+2024-04-24,Weekday,None,0,0,79,Dosa,11,12,1,1320,48.0
+2024-04-24,Weekday,None,0,0,79,Burger,15,17,2,2250,120.0
+2024-04-24,Weekday,None,0,0,79,Pizza,16,18,2,4800,240.0
+2024-04-25,Weekday,None,0,0,60,Biryani,13,15,2,3250,200.0
+2024-04-25,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-04-25,Weekday,None,0,0,60,Dosa,9,9,0,1080,0.0
+2024-04-25,Weekday,None,0,0,60,Burger,11,11,0,1650,0.0
+2024-04-25,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-04-26,Weekday,None,0,0,69,Biryani,15,16,1,3750,100.0
+2024-04-26,Weekday,None,0,0,69,Paneer Butter Masala,12,14,2,2640,176.0
+2024-04-26,Weekday,None,0,0,69,Dosa,10,10,0,1200,0.0
+2024-04-26,Weekday,None,0,0,69,Burger,13,15,2,1950,120.0
+2024-04-26,Weekday,None,0,0,69,Pizza,14,14,0,4200,0.0
+2024-04-27,Weekend,None,0,0,128,Biryani,28,31,3,7000,300.0
+2024-04-27,Weekend,None,0,0,128,Paneer Butter Masala,23,25,2,5060,176.0
+2024-04-27,Weekend,None,0,0,128,Dosa,19,21,2,2280,96.0
+2024-04-27,Weekend,None,0,0,128,Burger,24,27,3,3600,180.0
+2024-04-27,Weekend,None,0,0,128,Pizza,26,27,1,7800,120.0
+2024-04-28,Weekend,None,0,0,135,Biryani,30,33,3,7500,300.0
+2024-04-28,Weekend,None,0,0,135,Paneer Butter Masala,24,26,2,5280,176.0
+2024-04-28,Weekend,None,0,0,135,Dosa,20,22,2,2400,96.0
+2024-04-28,Weekend,None,0,0,135,Burger,26,28,2,3900,120.0
+2024-04-28,Weekend,None,0,0,135,Pizza,28,33,5,8400,600.0
+2024-04-29,Weekday,None,0,0,67,Biryani,15,16,1,3750,100.0
+2024-04-29,Weekday,None,0,0,67,Paneer Butter Masala,12,13,1,2640,88.0
+2024-04-29,Weekday,None,0,0,67,Dosa,10,11,1,1200,48.0
+2024-04-29,Weekday,None,0,0,67,Burger,13,15,2,1950,120.0
+2024-04-29,Weekday,None,0,0,67,Pizza,14,14,0,4200,0.0
+2024-04-30,Weekday,None,0,0,60,Biryani,13,13,0,3250,0.0
+2024-04-30,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-04-30,Weekday,None,0,0,60,Dosa,9,10,1,1080,48.0
+2024-04-30,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-04-30,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-05-01,Weekday,None,0,0,67,Biryani,15,17,2,3750,200.0
+2024-05-01,Weekday,None,0,0,67,Paneer Butter Masala,12,13,1,2640,88.0
+2024-05-01,Weekday,None,0,0,67,Dosa,10,11,1,1200,48.0
+2024-05-01,Weekday,None,0,0,67,Burger,13,13,0,1950,0.0
+2024-05-01,Weekday,None,0,0,67,Pizza,14,14,0,4200,0.0
+2024-05-02,Weekday,None,0,0,68,Biryani,15,17,2,3750,200.0
+2024-05-02,Weekday,None,0,0,68,Paneer Butter Masala,12,13,1,2640,88.0
+2024-05-02,Weekday,None,0,0,68,Dosa,10,10,0,1200,0.0
+2024-05-02,Weekday,None,0,0,68,Burger,13,15,2,1950,120.0
+2024-05-02,Weekday,None,0,0,68,Pizza,14,16,2,4200,240.0
+2024-05-03,Weekday,None,0,0,84,Biryani,18,19,1,4500,100.0
+2024-05-03,Weekday,None,0,0,84,Paneer Butter Masala,15,16,1,3300,88.0
+2024-05-03,Weekday,None,0,0,84,Dosa,12,13,1,1440,48.0
+2024-05-03,Weekday,None,0,0,84,Burger,16,18,2,2400,120.0
+2024-05-03,Weekday,None,0,0,84,Pizza,17,18,1,5100,120.0
+2024-05-04,Weekend,None,0,0,109,Biryani,24,28,4,6000,400.0
+2024-05-04,Weekend,None,0,0,109,Paneer Butter Masala,19,19,0,4180,0.0
+2024-05-04,Weekend,None,0,0,109,Dosa,16,17,1,1920,48.0
+2024-05-04,Weekend,None,0,0,109,Burger,21,23,2,3150,120.0
+2024-05-04,Weekend,None,0,0,109,Pizza,22,24,2,6600,240.0
+2024-05-05,Weekend,None,0,0,101,Biryani,22,24,2,5500,200.0
+2024-05-05,Weekend,None,0,0,101,Paneer Butter Masala,18,20,2,3960,176.0
+2024-05-05,Weekend,None,0,0,101,Dosa,15,17,2,1800,96.0
+2024-05-05,Weekend,None,0,0,101,Burger,19,21,2,2850,120.0
+2024-05-05,Weekend,None,0,0,101,Pizza,21,22,1,6300,120.0
+2024-05-06,Weekday,None,0,0,81,Biryani,18,19,1,4500,100.0
+2024-05-06,Weekday,None,0,0,81,Paneer Butter Masala,14,15,1,3080,88.0
+2024-05-06,Weekday,None,0,0,81,Dosa,12,13,1,1440,48.0
+2024-05-06,Weekday,None,0,0,81,Burger,15,17,2,2250,120.0
+2024-05-06,Weekday,None,0,0,81,Pizza,17,18,1,5100,120.0
+2024-05-07,Weekday,None,0,0,81,Biryani,18,19,1,4500,100.0
+2024-05-07,Weekday,None,0,0,81,Paneer Butter Masala,14,15,1,3080,88.0
+2024-05-07,Weekday,None,0,0,81,Dosa,12,13,1,1440,48.0
+2024-05-07,Weekday,None,0,0,81,Burger,15,17,2,2250,120.0
+2024-05-07,Weekday,None,0,0,81,Pizza,17,19,2,5100,240.0
+2024-05-08,Weekday,None,0,0,81,Biryani,18,19,1,4500,100.0
+2024-05-08,Weekday,None,0,0,81,Paneer Butter Masala,14,16,2,3080,176.0
+2024-05-08,Weekday,None,0,0,81,Dosa,12,13,1,1440,48.0
+2024-05-08,Weekday,None,0,0,81,Burger,15,17,2,2250,120.0
+2024-05-08,Weekday,None,0,0,81,Pizza,17,18,1,5100,120.0
+2024-05-09,Weekday,None,0,0,86,Biryani,19,22,3,4750,300.0
+2024-05-09,Weekday,None,0,0,86,Paneer Butter Masala,15,16,1,3300,88.0
+2024-05-09,Weekday,None,0,0,86,Dosa,12,13,1,1440,48.0
+2024-05-09,Weekday,None,0,0,86,Burger,16,18,2,2400,120.0
+2024-05-09,Weekday,None,0,0,86,Pizza,18,19,1,5400,120.0
+2024-05-10,Weekday,None,0,0,78,Biryani,17,18,1,4250,100.0
+2024-05-10,Weekday,None,0,0,78,Paneer Butter Masala,14,16,2,3080,176.0
+2024-05-10,Weekday,None,0,0,78,Dosa,11,12,1,1320,48.0
+2024-05-10,Weekday,None,0,0,78,Burger,15,16,1,2250,60.0
+2024-05-10,Weekday,None,0,0,78,Pizza,16,17,1,4800,120.0
+2024-05-11,Weekend,None,0,0,137,Biryani,30,34,4,7500,400.0
+2024-05-11,Weekend,None,0,0,137,Paneer Butter Masala,24,25,1,5280,88.0
+2024-05-11,Weekend,None,0,0,137,Dosa,20,22,2,2400,96.0
+2024-05-11,Weekend,None,0,0,137,Burger,26,27,1,3900,60.0
+2024-05-11,Weekend,None,0,0,137,Pizza,28,32,4,8400,480.0
+2024-05-12,Weekend,None,0,0,118,Biryani,26,29,3,6500,300.0
+2024-05-12,Weekend,None,0,0,118,Paneer Butter Masala,21,23,2,4620,176.0
+2024-05-12,Weekend,None,0,0,118,Dosa,17,17,0,2040,0.0
+2024-05-12,Weekend,None,0,0,118,Burger,23,24,1,3450,60.0
+2024-05-12,Weekend,None,0,0,118,Pizza,24,27,3,7200,360.0
+2024-05-13,Weekday,None,0,0,60,Biryani,13,14,1,3250,100.0
+2024-05-13,Weekday,None,0,0,60,Paneer Butter Masala,10,10,0,2200,0.0
+2024-05-13,Weekday,None,0,0,60,Dosa,9,9,0,1080,0.0
+2024-05-13,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-05-13,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-05-14,Weekday,None,0,0,64,Biryani,14,15,1,3500,100.0
+2024-05-14,Weekday,None,0,0,64,Paneer Butter Masala,11,12,1,2420,88.0
+2024-05-14,Weekday,None,0,0,64,Dosa,9,9,0,1080,0.0
+2024-05-14,Weekday,None,0,0,64,Burger,12,12,0,1800,0.0
+2024-05-14,Weekday,None,0,0,64,Pizza,13,14,1,3900,120.0
+2024-05-15,Weekday,None,0,0,83,Biryani,18,21,3,4500,300.0
+2024-05-15,Weekday,None,0,0,83,Paneer Butter Masala,14,16,2,3080,176.0
+2024-05-15,Weekday,None,0,0,83,Dosa,12,14,2,1440,96.0
+2024-05-15,Weekday,None,0,0,83,Burger,16,17,1,2400,60.0
+2024-05-15,Weekday,None,0,0,83,Pizza,17,18,1,5100,120.0
+2024-05-16,Weekday,None,0,0,77,Biryani,17,17,0,4250,0.0
+2024-05-16,Weekday,None,0,0,77,Paneer Butter Masala,13,13,0,2860,0.0
+2024-05-16,Weekday,None,0,0,77,Dosa,11,11,0,1320,0.0
+2024-05-16,Weekday,None,0,0,77,Burger,15,15,0,2250,0.0
+2024-05-16,Weekday,None,0,0,77,Pizza,16,17,1,4800,120.0
+2024-05-17,Weekday,None,0,0,87,Biryani,19,21,2,4750,200.0
+2024-05-17,Weekday,None,0,0,87,Paneer Butter Masala,15,17,2,3300,176.0
+2024-05-17,Weekday,None,0,0,87,Dosa,13,14,1,1560,48.0
+2024-05-17,Weekday,None,0,0,87,Burger,16,17,1,2400,60.0
+2024-05-17,Weekday,None,0,0,87,Pizza,18,21,3,5400,360.0
+2024-05-18,Weekend,None,0,0,111,Biryani,24,28,4,6000,400.0
+2024-05-18,Weekend,None,0,0,111,Paneer Butter Masala,19,20,1,4180,88.0
+2024-05-18,Weekend,None,0,0,111,Dosa,16,18,2,1920,96.0
+2024-05-18,Weekend,None,0,0,111,Burger,21,23,2,3150,120.0
+2024-05-18,Weekend,None,0,0,111,Pizza,23,27,4,6900,480.0
+2024-05-19,Weekend,None,0,0,121,Biryani,27,31,4,6750,400.0
+2024-05-19,Weekend,None,0,0,121,Paneer Butter Masala,21,22,1,4620,88.0
+2024-05-19,Weekend,None,0,0,121,Dosa,18,20,2,2160,96.0
+2024-05-19,Weekend,None,0,0,121,Burger,23,27,4,3450,240.0
+2024-05-19,Weekend,None,0,0,121,Pizza,25,28,3,7500,360.0
+2024-05-20,Weekday,None,0,0,77,Biryani,17,17,0,4250,0.0
+2024-05-20,Weekday,None,0,0,77,Paneer Butter Masala,13,14,1,2860,88.0
+2024-05-20,Weekday,None,0,0,77,Dosa,11,12,1,1320,48.0
+2024-05-20,Weekday,None,0,0,77,Burger,15,17,2,2250,120.0
+2024-05-20,Weekday,None,0,0,77,Pizza,16,17,1,4800,120.0
+2024-05-21,Weekday,None,0,0,70,Biryani,15,16,1,3750,100.0
+2024-05-21,Weekday,None,0,0,70,Paneer Butter Masala,12,12,0,2640,0.0
+2024-05-21,Weekday,None,0,0,70,Dosa,10,11,1,1200,48.0
+2024-05-21,Weekday,None,0,0,70,Burger,13,14,1,1950,60.0
+2024-05-21,Weekday,None,0,0,70,Pizza,14,16,2,4200,240.0
+2024-05-22,Weekday,None,0,0,80,Biryani,18,21,3,4500,300.0
+2024-05-22,Weekday,None,0,0,80,Paneer Butter Masala,14,15,1,3080,88.0
+2024-05-22,Weekday,None,0,0,80,Dosa,12,12,0,1440,0.0
+2024-05-22,Weekday,None,0,0,80,Burger,15,16,1,2250,60.0
+2024-05-22,Weekday,None,0,0,80,Pizza,16,17,1,4800,120.0
+2024-05-23,Weekday,None,0,0,80,Biryani,18,18,0,4500,0.0
+2024-05-23,Weekday,None,0,0,80,Paneer Butter Masala,14,14,0,3080,0.0
+2024-05-23,Weekday,None,0,0,80,Dosa,12,14,2,1440,96.0
+2024-05-23,Weekday,None,0,0,80,Burger,15,17,2,2250,120.0
+2024-05-23,Weekday,None,0,0,80,Pizza,16,18,2,4800,240.0
+2024-05-24,Weekday,None,0,0,84,Biryani,18,20,2,4500,200.0
+2024-05-24,Weekday,None,0,0,84,Paneer Butter Masala,15,17,2,3300,176.0
+2024-05-24,Weekday,None,0,0,84,Dosa,12,14,2,1440,96.0
+2024-05-24,Weekday,None,0,0,84,Burger,16,17,1,2400,60.0
+2024-05-24,Weekday,None,0,0,84,Pizza,17,19,2,5100,240.0
+2024-05-25,Weekend,None,0,0,101,Biryani,22,23,1,5500,100.0
+2024-05-25,Weekend,None,0,0,101,Paneer Butter Masala,18,20,2,3960,176.0
+2024-05-25,Weekend,None,0,0,101,Dosa,15,15,0,1800,0.0
+2024-05-25,Weekend,None,0,0,101,Burger,19,21,2,2850,120.0
+2024-05-25,Weekend,None,0,0,101,Pizza,21,22,1,6300,120.0
+2024-05-26,Weekend,None,0,0,139,Biryani,31,34,3,7750,300.0
+2024-05-26,Weekend,None,0,0,139,Paneer Butter Masala,25,29,4,5500,352.0
+2024-05-26,Weekend,None,0,0,139,Dosa,20,23,3,2400,144.0
+2024-05-26,Weekend,None,0,0,139,Burger,27,30,3,4050,180.0
+2024-05-26,Weekend,None,0,0,139,Pizza,29,34,5,8700,600.0
+2024-05-27,Weekday,None,0,0,83,Biryani,18,21,3,4500,300.0
+2024-05-27,Weekday,None,0,0,83,Paneer Butter Masala,14,16,2,3080,176.0
+2024-05-27,Weekday,None,0,0,83,Dosa,12,12,0,1440,0.0
+2024-05-27,Weekday,None,0,0,83,Burger,16,16,0,2400,0.0
+2024-05-27,Weekday,None,0,0,83,Pizza,17,18,1,5100,120.0
+2024-05-28,Weekday,None,0,0,70,Biryani,15,17,2,3750,200.0
+2024-05-28,Weekday,None,0,0,70,Paneer Butter Masala,12,14,2,2640,176.0
+2024-05-28,Weekday,None,0,0,70,Dosa,10,10,0,1200,0.0
+2024-05-28,Weekday,None,0,0,70,Burger,13,14,1,1950,60.0
+2024-05-28,Weekday,None,0,0,70,Pizza,14,15,1,4200,120.0
+2024-05-29,Weekday,None,0,0,67,Biryani,15,17,2,3750,200.0
+2024-05-29,Weekday,None,0,0,67,Paneer Butter Masala,12,13,1,2640,88.0
+2024-05-29,Weekday,None,0,0,67,Dosa,10,11,1,1200,48.0
+2024-05-29,Weekday,None,0,0,67,Burger,13,14,1,1950,60.0
+2024-05-29,Weekday,None,0,0,67,Pizza,14,15,1,4200,120.0
+2024-05-30,Weekday,None,0,0,64,Biryani,14,14,0,3500,0.0
+2024-05-30,Weekday,None,0,0,64,Paneer Butter Masala,11,13,2,2420,176.0
+2024-05-30,Weekday,None,0,0,64,Dosa,9,9,0,1080,0.0
+2024-05-30,Weekday,None,0,0,64,Burger,12,12,0,1800,0.0
+2024-05-30,Weekday,None,0,0,64,Pizza,13,14,1,3900,120.0
+2024-05-31,Weekday,None,0,0,76,Biryani,17,18,1,4250,100.0
+2024-05-31,Weekday,None,0,0,76,Paneer Butter Masala,13,15,2,2860,176.0
+2024-05-31,Weekday,None,0,0,76,Dosa,11,12,1,1320,48.0
+2024-05-31,Weekday,None,0,0,76,Burger,14,15,1,2100,60.0
+2024-05-31,Weekday,None,0,0,76,Pizza,15,16,1,4500,120.0
+2024-06-01,Weekend,None,0,0,107,Biryani,24,27,3,6000,300.0
+2024-06-01,Weekend,None,0,0,107,Paneer Butter Masala,19,22,3,4180,264.0
+2024-06-01,Weekend,None,0,0,107,Dosa,16,18,2,1920,96.0
+2024-06-01,Weekend,None,0,0,107,Burger,20,22,2,3000,120.0
+2024-06-01,Weekend,None,0,0,107,Pizza,22,26,4,6600,480.0
+2024-06-02,Weekend,None,0,0,111,Biryani,24,25,1,6000,100.0
+2024-06-02,Weekend,None,0,0,111,Paneer Butter Masala,19,22,3,4180,264.0
+2024-06-02,Weekend,None,0,0,111,Dosa,16,19,3,1920,144.0
+2024-06-02,Weekend,None,0,0,111,Burger,21,22,1,3150,60.0
+2024-06-02,Weekend,None,0,0,111,Pizza,23,26,3,6900,360.0
+2024-06-03,Weekday,None,0,0,82,Biryani,18,20,2,4500,200.0
+2024-06-03,Weekday,None,0,0,82,Paneer Butter Masala,14,15,1,3080,88.0
+2024-06-03,Weekday,None,0,0,82,Dosa,12,13,1,1440,48.0
+2024-06-03,Weekday,None,0,0,82,Burger,15,16,1,2250,60.0
+2024-06-03,Weekday,None,0,0,82,Pizza,17,19,2,5100,240.0
+2024-06-04,Weekday,None,0,0,67,Biryani,15,17,2,3750,200.0
+2024-06-04,Weekday,None,0,0,67,Paneer Butter Masala,12,14,2,2640,176.0
+2024-06-04,Weekday,None,0,0,67,Dosa,10,11,1,1200,48.0
+2024-06-04,Weekday,None,0,0,67,Burger,13,15,2,1950,120.0
+2024-06-04,Weekday,None,0,0,67,Pizza,14,16,2,4200,240.0
+2024-06-05,Weekday,None,0,0,69,Biryani,15,17,2,3750,200.0
+2024-06-05,Weekday,None,0,0,69,Paneer Butter Masala,12,13,1,2640,88.0
+2024-06-05,Weekday,None,0,0,69,Dosa,10,11,1,1200,48.0
+2024-06-05,Weekday,None,0,0,69,Burger,13,14,1,1950,60.0
+2024-06-05,Weekday,None,0,0,69,Pizza,14,15,1,4200,120.0
+2024-06-06,Weekday,None,0,0,70,Biryani,15,16,1,3750,100.0
+2024-06-06,Weekday,None,0,0,70,Paneer Butter Masala,12,13,1,2640,88.0
+2024-06-06,Weekday,None,0,0,70,Dosa,10,10,0,1200,0.0
+2024-06-06,Weekday,None,0,0,70,Burger,13,14,1,1950,60.0
+2024-06-06,Weekday,None,0,0,70,Pizza,14,15,1,4200,120.0
+2024-06-07,Weekday,None,0,0,84,Biryani,18,20,2,4500,200.0
+2024-06-07,Weekday,None,0,0,84,Paneer Butter Masala,15,16,1,3300,88.0
+2024-06-07,Weekday,None,0,0,84,Dosa,12,13,1,1440,48.0
+2024-06-07,Weekday,None,0,0,84,Burger,16,18,2,2400,120.0
+2024-06-07,Weekday,None,0,0,84,Pizza,17,18,1,5100,120.0
+2024-06-08,Weekend,None,0,0,133,Biryani,29,30,1,7250,100.0
+2024-06-08,Weekend,None,0,0,133,Paneer Butter Masala,23,27,4,5060,352.0
+2024-06-08,Weekend,None,0,0,133,Dosa,19,21,2,2280,96.0
+2024-06-08,Weekend,None,0,0,133,Burger,25,29,4,3750,240.0
+2024-06-08,Weekend,None,0,0,133,Pizza,27,31,4,8100,480.0
+2024-06-09,Weekend,None,0,1,179,Biryani,40,46,6,10000,600.0
+2024-06-09,Weekend,None,0,1,179,Paneer Butter Masala,32,35,3,7040,264.0
+2024-06-09,Weekend,None,0,1,179,Dosa,26,29,3,3120,144.0
+2024-06-09,Weekend,None,0,1,179,Burger,34,38,4,5100,240.0
+2024-06-09,Weekend,None,0,1,179,Pizza,37,43,6,11100,720.0
+2024-06-10,Weekday,None,0,1,96,Biryani,21,22,1,5250,100.0
+2024-06-10,Weekday,None,0,1,96,Paneer Butter Masala,17,18,1,3740,88.0
+2024-06-10,Weekday,None,0,1,96,Dosa,14,15,1,1680,48.0
+2024-06-10,Weekday,None,0,1,96,Burger,18,20,2,2700,120.0
+2024-06-10,Weekday,None,0,1,96,Pizza,20,21,1,6000,120.0
+2024-06-11,Weekday,None,0,0,83,Biryani,18,19,1,4500,100.0
+2024-06-11,Weekday,None,0,0,83,Paneer Butter Masala,14,15,1,3080,88.0
+2024-06-11,Weekday,None,0,0,83,Dosa,12,13,1,1440,48.0
+2024-06-11,Weekday,None,0,0,83,Burger,16,16,0,2400,0.0
+2024-06-11,Weekday,None,0,0,83,Pizza,17,17,0,5100,0.0
+2024-06-12,Weekday,None,0,1,95,Biryani,21,22,1,5250,100.0
+2024-06-12,Weekday,None,0,1,95,Paneer Butter Masala,17,18,1,3740,88.0
+2024-06-12,Weekday,None,0,1,95,Dosa,14,14,0,1680,0.0
+2024-06-12,Weekday,None,0,1,95,Burger,18,21,3,2700,180.0
+2024-06-12,Weekday,None,0,1,95,Pizza,19,22,3,5700,360.0
+2024-06-13,Weekday,None,0,0,87,Biryani,19,21,2,4750,200.0
+2024-06-13,Weekday,None,0,0,87,Paneer Butter Masala,15,17,2,3300,176.0
+2024-06-13,Weekday,None,0,0,87,Dosa,13,15,2,1560,96.0
+2024-06-13,Weekday,None,0,0,87,Burger,16,17,1,2400,60.0
+2024-06-13,Weekday,None,0,0,87,Pizza,18,20,2,5400,240.0
+2024-06-14,Weekday,None,0,0,79,Biryani,17,18,1,4250,100.0
+2024-06-14,Weekday,None,0,0,79,Paneer Butter Masala,14,15,1,3080,88.0
+2024-06-14,Weekday,None,0,0,79,Dosa,11,12,1,1320,48.0
+2024-06-14,Weekday,None,0,0,79,Burger,15,16,1,2250,60.0
+2024-06-14,Weekday,None,0,0,79,Pizza,16,18,2,4800,240.0
+2024-06-15,Weekend,None,0,0,133,Biryani,29,32,3,7250,300.0
+2024-06-15,Weekend,None,0,0,133,Paneer Butter Masala,23,24,1,5060,88.0
+2024-06-15,Weekend,None,0,0,133,Dosa,19,22,3,2280,144.0
+2024-06-15,Weekend,None,0,0,133,Burger,25,29,4,3750,240.0
+2024-06-15,Weekend,None,0,0,133,Pizza,27,31,4,8100,480.0
+2024-06-16,Weekend,None,0,0,122,Biryani,27,31,4,6750,400.0
+2024-06-16,Weekend,None,0,0,122,Paneer Butter Masala,21,24,3,4620,264.0
+2024-06-16,Weekend,None,0,0,122,Dosa,18,21,3,2160,144.0
+2024-06-16,Weekend,None,0,0,122,Burger,23,24,1,3450,60.0
+2024-06-16,Weekend,None,0,0,122,Pizza,25,27,2,7500,240.0
+2024-06-17,Weekday,None,0,0,89,Biryani,20,23,3,5000,300.0
+2024-06-17,Weekday,None,0,0,89,Paneer Butter Masala,16,18,2,3520,176.0
+2024-06-17,Weekday,None,0,0,89,Dosa,13,14,1,1560,48.0
+2024-06-17,Weekday,None,0,0,89,Burger,17,19,2,2550,120.0
+2024-06-17,Weekday,None,0,0,89,Pizza,18,20,2,5400,240.0
+2024-06-18,Weekday,None,0,0,63,Biryani,14,15,1,3500,100.0
+2024-06-18,Weekday,None,0,0,63,Paneer Butter Masala,11,11,0,2420,0.0
+2024-06-18,Weekday,None,0,0,63,Dosa,9,10,1,1080,48.0
+2024-06-18,Weekday,None,0,0,63,Burger,12,13,1,1800,60.0
+2024-06-18,Weekday,None,0,0,63,Pizza,13,13,0,3900,0.0
+2024-06-19,Weekday,None,0,0,84,Biryani,18,21,3,4500,300.0
+2024-06-19,Weekday,None,0,0,84,Paneer Butter Masala,15,15,0,3300,0.0
+2024-06-19,Weekday,None,0,0,84,Dosa,12,13,1,1440,48.0
+2024-06-19,Weekday,None,0,0,84,Burger,16,19,3,2400,180.0
+2024-06-19,Weekday,None,0,0,84,Pizza,17,19,2,5100,240.0
+2024-06-20,Weekday,None,0,0,87,Biryani,19,21,2,4750,200.0
+2024-06-20,Weekday,None,0,0,87,Paneer Butter Masala,15,16,1,3300,88.0
+2024-06-20,Weekday,None,0,0,87,Dosa,13,15,2,1560,96.0
+2024-06-20,Weekday,None,0,0,87,Burger,16,17,1,2400,60.0
+2024-06-20,Weekday,None,0,0,87,Pizza,18,19,1,5400,120.0
+2024-06-21,Weekday,None,0,0,72,Biryani,16,18,2,4000,200.0
+2024-06-21,Weekday,None,0,0,72,Paneer Butter Masala,12,14,2,2640,176.0
+2024-06-21,Weekday,None,0,0,72,Dosa,10,10,0,1200,0.0
+2024-06-21,Weekday,None,0,0,72,Burger,14,16,2,2100,120.0
+2024-06-21,Weekday,None,0,0,72,Pizza,15,16,1,4500,120.0
+2024-06-22,Weekend,None,0,0,102,Biryani,22,24,2,5500,200.0
+2024-06-22,Weekend,None,0,0,102,Paneer Butter Masala,18,20,2,3960,176.0
+2024-06-22,Weekend,None,0,0,102,Dosa,15,17,2,1800,96.0
+2024-06-22,Weekend,None,0,0,102,Burger,19,20,1,2850,60.0
+2024-06-22,Weekend,None,0,0,102,Pizza,21,24,3,6300,360.0
+2024-06-23,Weekend,None,0,0,139,Biryani,31,33,2,7750,200.0
+2024-06-23,Weekend,None,0,0,139,Paneer Butter Masala,25,26,1,5500,88.0
+2024-06-23,Weekend,None,0,0,139,Dosa,20,21,1,2400,48.0
+2024-06-23,Weekend,None,0,0,139,Burger,27,29,2,4050,120.0
+2024-06-23,Weekend,None,0,0,139,Pizza,29,31,2,8700,240.0
+2024-06-24,Weekday,None,0,0,63,Biryani,14,15,1,3500,100.0
+2024-06-24,Weekday,None,0,0,63,Paneer Butter Masala,11,12,1,2420,88.0
+2024-06-24,Weekday,None,0,0,63,Dosa,9,9,0,1080,0.0
+2024-06-24,Weekday,None,0,0,63,Burger,12,14,2,1800,120.0
+2024-06-24,Weekday,None,0,0,63,Pizza,13,15,2,3900,240.0
+2024-06-25,Weekday,None,0,0,82,Biryani,18,18,0,4500,0.0
+2024-06-25,Weekday,None,0,0,82,Paneer Butter Masala,14,16,2,3080,176.0
+2024-06-25,Weekday,None,0,0,82,Dosa,12,13,1,1440,48.0
+2024-06-25,Weekday,None,0,0,82,Burger,15,17,2,2250,120.0
+2024-06-25,Weekday,None,0,0,82,Pizza,17,17,0,5100,0.0
+2024-06-26,Weekday,None,0,0,72,Biryani,16,18,2,4000,200.0
+2024-06-26,Weekday,None,0,0,72,Paneer Butter Masala,12,12,0,2640,0.0
+2024-06-26,Weekday,None,0,0,72,Dosa,10,10,0,1200,0.0
+2024-06-26,Weekday,None,0,0,72,Burger,14,15,1,2100,60.0
+2024-06-26,Weekday,None,0,0,72,Pizza,15,17,2,4500,240.0
+2024-06-27,Weekday,None,0,0,61,Biryani,13,14,1,3250,100.0
+2024-06-27,Weekday,None,0,0,61,Paneer Butter Masala,10,11,1,2200,88.0
+2024-06-27,Weekday,None,0,0,61,Dosa,9,10,1,1080,48.0
+2024-06-27,Weekday,None,0,0,61,Burger,11,11,0,1650,0.0
+2024-06-27,Weekday,None,0,0,61,Pizza,12,13,1,3600,120.0
+2024-06-28,Weekday,None,0,0,61,Biryani,13,14,1,3250,100.0
+2024-06-28,Weekday,None,0,0,61,Paneer Butter Masala,10,11,1,2200,88.0
+2024-06-28,Weekday,None,0,0,61,Dosa,9,10,1,1080,48.0
+2024-06-28,Weekday,None,0,0,61,Burger,11,11,0,1650,0.0
+2024-06-28,Weekday,None,0,0,61,Pizza,12,14,2,3600,240.0
+2024-06-29,Weekend,None,0,0,103,Biryani,23,25,2,5750,200.0
+2024-06-29,Weekend,None,0,0,103,Paneer Butter Masala,18,20,2,3960,176.0
+2024-06-29,Weekend,None,0,0,103,Dosa,15,15,0,1800,0.0
+2024-06-29,Weekend,None,0,0,103,Burger,20,22,2,3000,120.0
+2024-06-29,Weekend,None,0,0,103,Pizza,21,23,2,6300,240.0
+2024-06-30,Weekend,None,0,0,117,Biryani,26,30,4,6500,400.0
+2024-06-30,Weekend,None,0,0,117,Paneer Butter Masala,21,25,4,4620,352.0
+2024-06-30,Weekend,None,0,0,117,Dosa,17,20,3,2040,144.0
+2024-06-30,Weekend,None,0,0,117,Burger,22,25,3,3300,180.0
+2024-06-30,Weekend,None,0,0,117,Pizza,24,25,1,7200,120.0
+2024-07-01,Weekday,None,0,0,66,Biryani,14,14,0,3500,0.0
+2024-07-01,Weekday,None,0,0,66,Paneer Butter Masala,11,12,1,2420,88.0
+2024-07-01,Weekday,None,0,0,66,Dosa,9,9,0,1080,0.0
+2024-07-01,Weekday,None,0,0,66,Burger,12,14,2,1800,120.0
+2024-07-01,Weekday,None,0,0,66,Pizza,13,14,1,3900,120.0
+2024-07-02,Weekday,None,0,0,61,Biryani,13,14,1,3250,100.0
+2024-07-02,Weekday,None,0,0,61,Paneer Butter Masala,10,11,1,2200,88.0
+2024-07-02,Weekday,None,0,0,61,Dosa,9,10,1,1080,48.0
+2024-07-02,Weekday,None,0,0,61,Burger,11,12,1,1650,60.0
+2024-07-02,Weekday,None,0,0,61,Pizza,12,12,0,3600,0.0
+2024-07-03,Weekday,None,0,0,88,Biryani,19,20,1,4750,100.0
+2024-07-03,Weekday,None,0,0,88,Paneer Butter Masala,15,17,2,3300,176.0
+2024-07-03,Weekday,None,0,0,88,Dosa,13,15,2,1560,96.0
+2024-07-03,Weekday,None,0,0,88,Burger,17,18,1,2550,60.0
+2024-07-03,Weekday,None,0,0,88,Pizza,18,19,1,5400,120.0
+2024-07-04,Weekday,None,0,0,89,Biryani,20,21,1,5000,100.0
+2024-07-04,Weekday,None,0,0,89,Paneer Butter Masala,16,17,1,3520,88.0
+2024-07-04,Weekday,None,0,0,89,Dosa,13,15,2,1560,96.0
+2024-07-04,Weekday,None,0,0,89,Burger,17,18,1,2550,60.0
+2024-07-04,Weekday,None,0,0,89,Pizza,18,20,2,5400,240.0
+2024-07-05,Weekday,None,0,0,84,Biryani,18,20,2,4500,200.0
+2024-07-05,Weekday,None,0,0,84,Paneer Butter Masala,15,16,1,3300,88.0
+2024-07-05,Weekday,None,0,0,84,Dosa,12,13,1,1440,48.0
+2024-07-05,Weekday,None,0,0,84,Burger,16,18,2,2400,120.0
+2024-07-05,Weekday,None,0,0,84,Pizza,17,19,2,5100,240.0
+2024-07-06,Weekend,None,0,0,124,Biryani,27,31,4,6750,400.0
+2024-07-06,Weekend,None,0,0,124,Paneer Butter Masala,22,24,2,4840,176.0
+2024-07-06,Weekend,None,0,0,124,Dosa,18,20,2,2160,96.0
+2024-07-06,Weekend,None,0,0,124,Burger,24,27,3,3600,180.0
+2024-07-06,Weekend,None,0,0,124,Pizza,26,27,1,7800,120.0
+2024-07-07,Weekend,None,0,0,128,Biryani,28,32,4,7000,400.0
+2024-07-07,Weekend,None,0,0,128,Paneer Butter Masala,23,26,3,5060,264.0
+2024-07-07,Weekend,None,0,0,128,Dosa,19,22,3,2280,144.0
+2024-07-07,Weekend,None,0,0,128,Burger,24,27,3,3600,180.0
+2024-07-07,Weekend,None,0,0,128,Pizza,26,29,3,7800,360.0
+2024-07-08,Weekday,None,0,0,80,Biryani,18,21,3,4500,300.0
+2024-07-08,Weekday,None,0,0,80,Paneer Butter Masala,14,16,2,3080,176.0
+2024-07-08,Weekday,None,0,0,80,Dosa,12,12,0,1440,0.0
+2024-07-08,Weekday,None,0,0,80,Burger,15,16,1,2250,60.0
+2024-07-08,Weekday,None,0,0,80,Pizza,16,16,0,4800,0.0
+2024-07-09,Weekday,None,0,0,89,Biryani,20,23,3,5000,300.0
+2024-07-09,Weekday,None,0,0,89,Paneer Butter Masala,16,17,1,3520,88.0
+2024-07-09,Weekday,None,0,0,89,Dosa,13,14,1,1560,48.0
+2024-07-09,Weekday,None,0,0,89,Burger,17,19,2,2550,120.0
+2024-07-09,Weekday,None,0,0,89,Pizza,18,19,1,5400,120.0
+2024-07-10,Weekday,None,0,0,80,Biryani,18,20,2,4500,200.0
+2024-07-10,Weekday,None,0,0,80,Paneer Butter Masala,14,15,1,3080,88.0
+2024-07-10,Weekday,None,0,0,80,Dosa,12,14,2,1440,96.0
+2024-07-10,Weekday,None,0,0,80,Burger,15,16,1,2250,60.0
+2024-07-10,Weekday,None,0,0,80,Pizza,16,17,1,4800,120.0
+2024-07-11,Weekday,None,0,0,77,Biryani,17,19,2,4250,200.0
+2024-07-11,Weekday,None,0,0,77,Paneer Butter Masala,13,14,1,2860,88.0
+2024-07-11,Weekday,None,0,0,77,Dosa,11,12,1,1320,48.0
+2024-07-11,Weekday,None,0,0,77,Burger,15,17,2,2250,120.0
+2024-07-11,Weekday,None,0,0,77,Pizza,16,18,2,4800,240.0
+2024-07-12,Weekday,None,0,0,67,Biryani,15,17,2,3750,200.0
+2024-07-12,Weekday,None,0,0,67,Paneer Butter Masala,12,13,1,2640,88.0
+2024-07-12,Weekday,None,0,0,67,Dosa,10,10,0,1200,0.0
+2024-07-12,Weekday,None,0,0,67,Burger,13,13,0,1950,0.0
+2024-07-12,Weekday,None,0,0,67,Pizza,14,15,1,4200,120.0
+2024-07-13,Weekend,None,0,0,121,Biryani,27,29,2,6750,200.0
+2024-07-13,Weekend,None,0,0,121,Paneer Butter Masala,21,23,2,4620,176.0
+2024-07-13,Weekend,None,0,0,121,Dosa,18,20,2,2160,96.0
+2024-07-13,Weekend,None,0,0,121,Burger,23,27,4,3450,240.0
+2024-07-13,Weekend,None,0,0,121,Pizza,25,26,1,7500,120.0
+2024-07-14,Weekend,None,0,0,112,Biryani,25,26,1,6250,100.0
+2024-07-14,Weekend,None,0,0,112,Paneer Butter Masala,20,23,3,4400,264.0
+2024-07-14,Weekend,None,0,0,112,Dosa,16,17,1,1920,48.0
+2024-07-14,Weekend,None,0,0,112,Burger,21,23,2,3150,120.0
+2024-07-14,Weekend,None,0,0,112,Pizza,23,27,4,6900,480.0
+2024-07-15,Weekday,None,0,0,85,Biryani,19,22,3,4750,300.0
+2024-07-15,Weekday,None,0,0,85,Paneer Butter Masala,15,16,1,3300,88.0
+2024-07-15,Weekday,None,0,0,85,Dosa,12,12,0,1440,0.0
+2024-07-15,Weekday,None,0,0,85,Burger,16,17,1,2400,60.0
+2024-07-15,Weekday,None,0,0,85,Pizza,17,19,2,5100,240.0
+2024-07-16,Weekday,None,0,0,65,Biryani,14,15,1,3500,100.0
+2024-07-16,Weekday,None,0,0,65,Paneer Butter Masala,11,12,1,2420,88.0
+2024-07-16,Weekday,None,0,0,65,Dosa,9,10,1,1080,48.0
+2024-07-16,Weekday,None,0,0,65,Burger,12,13,1,1800,60.0
+2024-07-16,Weekday,None,0,0,65,Pizza,13,15,2,3900,240.0
+2024-07-17,Weekday,None,0,0,87,Biryani,19,22,3,4750,300.0
+2024-07-17,Weekday,None,0,0,87,Paneer Butter Masala,15,16,1,3300,88.0
+2024-07-17,Weekday,None,0,0,87,Dosa,13,15,2,1560,96.0
+2024-07-17,Weekday,None,0,0,87,Burger,16,16,0,2400,0.0
+2024-07-17,Weekday,None,0,0,87,Pizza,18,21,3,5400,360.0
+2024-07-18,Weekday,None,0,0,85,Biryani,19,22,3,4750,300.0
+2024-07-18,Weekday,None,0,0,85,Paneer Butter Masala,15,16,1,3300,88.0
+2024-07-18,Weekday,None,0,0,85,Dosa,12,12,0,1440,0.0
+2024-07-18,Weekday,None,0,0,85,Burger,16,17,1,2400,60.0
+2024-07-18,Weekday,None,0,0,85,Pizza,17,18,1,5100,120.0
+2024-07-19,Weekday,None,0,0,71,Biryani,15,16,1,3750,100.0
+2024-07-19,Weekday,None,0,0,71,Paneer Butter Masala,12,12,0,2640,0.0
+2024-07-19,Weekday,None,0,0,71,Dosa,10,11,1,1200,48.0
+2024-07-19,Weekday,None,0,0,71,Burger,13,14,1,1950,60.0
+2024-07-19,Weekday,None,0,0,71,Pizza,14,16,2,4200,240.0
+2024-07-20,Weekend,None,0,0,107,Biryani,24,28,4,6000,400.0
+2024-07-20,Weekend,None,0,0,107,Paneer Butter Masala,19,21,2,4180,176.0
+2024-07-20,Weekend,None,0,0,107,Dosa,16,16,0,1920,0.0
+2024-07-20,Weekend,None,0,0,107,Burger,20,21,1,3000,60.0
+2024-07-20,Weekend,None,0,0,107,Pizza,22,23,1,6600,120.0
+2024-07-21,Weekend,None,0,0,136,Biryani,30,35,5,7500,500.0
+2024-07-21,Weekend,None,0,0,136,Paneer Butter Masala,24,28,4,5280,352.0
+2024-07-21,Weekend,None,0,0,136,Dosa,20,22,2,2400,96.0
+2024-07-21,Weekend,None,0,0,136,Burger,26,28,2,3900,120.0
+2024-07-21,Weekend,None,0,0,136,Pizza,28,32,4,8400,480.0
+2024-07-22,Weekday,None,0,0,74,Biryani,16,17,1,4000,100.0
+2024-07-22,Weekday,None,0,0,74,Paneer Butter Masala,13,14,1,2860,88.0
+2024-07-22,Weekday,None,0,0,74,Dosa,11,12,1,1320,48.0
+2024-07-22,Weekday,None,0,0,74,Burger,14,16,2,2100,120.0
+2024-07-22,Weekday,None,0,0,74,Pizza,15,17,2,4500,240.0
+2024-07-23,Weekday,None,0,0,63,Biryani,14,16,2,3500,200.0
+2024-07-23,Weekday,None,0,0,63,Paneer Butter Masala,11,12,1,2420,88.0
+2024-07-23,Weekday,None,0,0,63,Dosa,9,10,1,1080,48.0
+2024-07-23,Weekday,None,0,0,63,Burger,12,13,1,1800,60.0
+2024-07-23,Weekday,None,0,0,63,Pizza,13,14,1,3900,120.0
+2024-07-24,Weekday,None,0,0,85,Biryani,19,22,3,4750,300.0
+2024-07-24,Weekday,None,0,0,85,Paneer Butter Masala,15,16,1,3300,88.0
+2024-07-24,Weekday,None,0,0,85,Dosa,12,14,2,1440,96.0
+2024-07-24,Weekday,None,0,0,85,Burger,16,18,2,2400,120.0
+2024-07-24,Weekday,None,0,0,85,Pizza,17,18,1,5100,120.0
+2024-07-25,Weekday,None,0,0,78,Biryani,17,18,1,4250,100.0
+2024-07-25,Weekday,None,0,0,78,Paneer Butter Masala,14,15,1,3080,88.0
+2024-07-25,Weekday,None,0,0,78,Dosa,11,12,1,1320,48.0
+2024-07-25,Weekday,None,0,0,78,Burger,15,16,1,2250,60.0
+2024-07-25,Weekday,None,0,0,78,Pizza,16,18,2,4800,240.0
+2024-07-26,Weekday,None,0,0,85,Biryani,19,21,2,4750,200.0
+2024-07-26,Weekday,None,0,0,85,Paneer Butter Masala,15,17,2,3300,176.0
+2024-07-26,Weekday,None,0,0,85,Dosa,12,12,0,1440,0.0
+2024-07-26,Weekday,None,0,0,85,Burger,16,17,1,2400,60.0
+2024-07-26,Weekday,None,0,0,85,Pizza,17,20,3,5100,360.0
+2024-07-27,Weekend,None,0,0,104,Biryani,23,24,1,5750,100.0
+2024-07-27,Weekend,None,0,0,104,Paneer Butter Masala,18,20,2,3960,176.0
+2024-07-27,Weekend,None,0,0,104,Dosa,15,15,0,1800,0.0
+2024-07-27,Weekend,None,0,0,104,Burger,20,22,2,3000,120.0
+2024-07-27,Weekend,None,0,0,104,Pizza,21,23,2,6300,240.0
+2024-07-28,Weekend,None,0,0,119,Biryani,26,29,3,6500,300.0
+2024-07-28,Weekend,None,0,0,119,Paneer Butter Masala,21,22,1,4620,88.0
+2024-07-28,Weekend,None,0,0,119,Dosa,17,18,1,2040,48.0
+2024-07-28,Weekend,None,0,0,119,Burger,23,27,4,3450,240.0
+2024-07-28,Weekend,None,0,0,119,Pizza,24,26,2,7200,240.0
+2024-07-29,Weekday,None,0,0,60,Biryani,13,15,2,3250,200.0
+2024-07-29,Weekday,None,0,0,60,Paneer Butter Masala,10,10,0,2200,0.0
+2024-07-29,Weekday,None,0,0,60,Dosa,9,10,1,1080,48.0
+2024-07-29,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-07-29,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-07-30,Weekday,None,0,0,73,Biryani,16,17,1,4000,100.0
+2024-07-30,Weekday,None,0,0,73,Paneer Butter Masala,13,14,1,2860,88.0
+2024-07-30,Weekday,None,0,0,73,Dosa,10,11,1,1200,48.0
+2024-07-30,Weekday,None,0,0,73,Burger,14,15,1,2100,60.0
+2024-07-30,Weekday,None,0,0,73,Pizza,15,16,1,4500,120.0
+2024-07-31,Weekday,None,0,0,71,Biryani,15,17,2,3750,200.0
+2024-07-31,Weekday,None,0,0,71,Paneer Butter Masala,12,12,0,2640,0.0
+2024-07-31,Weekday,None,0,0,71,Dosa,10,10,0,1200,0.0
+2024-07-31,Weekday,None,0,0,71,Burger,13,13,0,1950,0.0
+2024-07-31,Weekday,None,0,0,71,Pizza,14,16,2,4200,240.0
+2024-08-01,Weekday,None,0,0,64,Biryani,14,16,2,3500,200.0
+2024-08-01,Weekday,None,0,0,64,Paneer Butter Masala,11,12,1,2420,88.0
+2024-08-01,Weekday,None,0,0,64,Dosa,9,10,1,1080,48.0
+2024-08-01,Weekday,None,0,0,64,Burger,12,14,2,1800,120.0
+2024-08-01,Weekday,None,0,0,64,Pizza,13,14,1,3900,120.0
+2024-08-02,Weekday,None,0,0,79,Biryani,17,18,1,4250,100.0
+2024-08-02,Weekday,None,0,0,79,Paneer Butter Masala,14,14,0,3080,0.0
+2024-08-02,Weekday,None,0,0,79,Dosa,11,12,1,1320,48.0
+2024-08-02,Weekday,None,0,0,79,Burger,15,17,2,2250,120.0
+2024-08-02,Weekday,None,0,0,79,Pizza,16,16,0,4800,0.0
+2024-08-03,Weekend,None,0,0,105,Biryani,23,24,1,5750,100.0
+2024-08-03,Weekend,None,0,0,105,Paneer Butter Masala,18,19,1,3960,88.0
+2024-08-03,Weekend,None,0,0,105,Dosa,15,15,0,1800,0.0
+2024-08-03,Weekend,None,0,0,105,Burger,20,22,2,3000,120.0
+2024-08-03,Weekend,None,0,0,105,Pizza,22,25,3,6600,360.0
+2024-08-04,Weekend,None,0,0,123,Biryani,27,31,4,6750,400.0
+2024-08-04,Weekend,None,0,0,123,Paneer Butter Masala,22,23,1,4840,88.0
+2024-08-04,Weekend,None,0,0,123,Dosa,18,19,1,2160,48.0
+2024-08-04,Weekend,None,0,0,123,Burger,23,27,4,3450,240.0
+2024-08-04,Weekend,None,0,0,123,Pizza,25,28,3,7500,360.0
+2024-08-05,Weekday,None,0,0,70,Biryani,15,16,1,3750,100.0
+2024-08-05,Weekday,None,0,0,70,Paneer Butter Masala,12,13,1,2640,88.0
+2024-08-05,Weekday,None,0,0,70,Dosa,10,10,0,1200,0.0
+2024-08-05,Weekday,None,0,0,70,Burger,13,13,0,1950,0.0
+2024-08-05,Weekday,None,0,0,70,Pizza,14,15,1,4200,120.0
+2024-08-06,Weekday,None,0,0,69,Biryani,15,17,2,3750,200.0
+2024-08-06,Weekday,None,0,0,69,Paneer Butter Masala,12,12,0,2640,0.0
+2024-08-06,Weekday,None,0,0,69,Dosa,10,10,0,1200,0.0
+2024-08-06,Weekday,None,0,0,69,Burger,13,15,2,1950,120.0
+2024-08-06,Weekday,None,0,0,69,Pizza,14,15,1,4200,120.0
+2024-08-07,Weekday,None,0,0,74,Biryani,16,17,1,4000,100.0
+2024-08-07,Weekday,None,0,0,74,Paneer Butter Masala,13,15,2,2860,176.0
+2024-08-07,Weekday,None,0,0,74,Dosa,11,12,1,1320,48.0
+2024-08-07,Weekday,None,0,0,74,Burger,14,16,2,2100,120.0
+2024-08-07,Weekday,None,0,0,74,Pizza,15,17,2,4500,240.0
+2024-08-08,Weekday,None,0,0,76,Biryani,17,19,2,4250,200.0
+2024-08-08,Weekday,None,0,0,76,Paneer Butter Masala,13,15,2,2860,176.0
+2024-08-08,Weekday,None,0,0,76,Dosa,11,12,1,1320,48.0
+2024-08-08,Weekday,None,0,0,76,Burger,14,14,0,2100,0.0
+2024-08-08,Weekday,None,0,0,76,Pizza,15,17,2,4500,240.0
+2024-08-09,Weekday,None,0,0,60,Biryani,13,14,1,3250,100.0
+2024-08-09,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-08-09,Weekday,None,0,0,60,Dosa,9,9,0,1080,0.0
+2024-08-09,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-08-09,Weekday,None,0,0,60,Pizza,12,12,0,3600,0.0
+2024-08-10,Weekend,None,0,0,105,Biryani,23,25,2,5750,200.0
+2024-08-10,Weekend,None,0,0,105,Paneer Butter Masala,18,21,3,3960,264.0
+2024-08-10,Weekend,None,0,0,105,Dosa,15,17,2,1800,96.0
+2024-08-10,Weekend,None,0,0,105,Burger,20,23,3,3000,180.0
+2024-08-10,Weekend,None,0,0,105,Pizza,22,23,1,6600,120.0
+2024-08-11,Weekend,None,0,0,110,Biryani,24,28,4,6000,400.0
+2024-08-11,Weekend,None,0,0,110,Paneer Butter Masala,19,21,2,4180,176.0
+2024-08-11,Weekend,None,0,0,110,Dosa,16,17,1,1920,48.0
+2024-08-11,Weekend,None,0,0,110,Burger,21,24,3,3150,180.0
+2024-08-11,Weekend,None,0,0,110,Pizza,23,26,3,6900,360.0
+2024-08-12,Weekday,None,0,0,68,Biryani,15,16,1,3750,100.0
+2024-08-12,Weekday,None,0,0,68,Paneer Butter Masala,12,14,2,2640,176.0
+2024-08-12,Weekday,None,0,0,68,Dosa,10,11,1,1200,48.0
+2024-08-12,Weekday,None,0,0,68,Burger,13,14,1,1950,60.0
+2024-08-12,Weekday,None,0,0,68,Pizza,14,16,2,4200,240.0
+2024-08-13,Weekday,None,0,0,60,Biryani,13,14,1,3250,100.0
+2024-08-13,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-08-13,Weekday,None,0,0,60,Dosa,9,10,1,1080,48.0
+2024-08-13,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-08-13,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-08-14,Weekday,None,0,0,76,Biryani,17,18,1,4250,100.0
+2024-08-14,Weekday,None,0,0,76,Paneer Butter Masala,13,13,0,2860,0.0
+2024-08-14,Weekday,None,0,0,76,Dosa,11,12,1,1320,48.0
+2024-08-14,Weekday,None,0,0,76,Burger,14,15,1,2100,60.0
+2024-08-14,Weekday,None,0,0,76,Pizza,15,17,2,4500,240.0
+2024-08-15,Weekday,None,0,0,68,Biryani,15,16,1,3750,100.0
+2024-08-15,Weekday,None,0,0,68,Paneer Butter Masala,12,14,2,2640,176.0
+2024-08-15,Weekday,None,0,0,68,Dosa,10,11,1,1200,48.0
+2024-08-15,Weekday,None,0,0,68,Burger,13,14,1,1950,60.0
+2024-08-15,Weekday,None,0,0,68,Pizza,14,14,0,4200,0.0
+2024-08-16,Weekday,None,0,0,71,Biryani,15,16,1,3750,100.0
+2024-08-16,Weekday,None,0,0,71,Paneer Butter Masala,12,13,1,2640,88.0
+2024-08-16,Weekday,None,0,0,71,Dosa,10,10,0,1200,0.0
+2024-08-16,Weekday,None,0,0,71,Burger,13,14,1,1950,60.0
+2024-08-16,Weekday,None,0,0,71,Pizza,14,15,1,4200,120.0
+2024-08-17,Weekend,None,0,0,120,Biryani,27,29,2,6750,200.0
+2024-08-17,Weekend,None,0,0,120,Paneer Butter Masala,21,22,1,4620,88.0
+2024-08-17,Weekend,None,0,0,120,Dosa,18,20,2,2160,96.0
+2024-08-17,Weekend,None,0,0,120,Burger,23,27,4,3450,240.0
+2024-08-17,Weekend,None,0,0,120,Pizza,25,27,2,7500,240.0
+2024-08-18,Weekend,None,0,0,114,Biryani,25,26,1,6250,100.0
+2024-08-18,Weekend,None,0,0,114,Paneer Butter Masala,20,22,2,4400,176.0
+2024-08-18,Weekend,None,0,0,114,Dosa,17,18,1,2040,48.0
+2024-08-18,Weekend,None,0,0,114,Burger,22,23,1,3300,60.0
+2024-08-18,Weekend,None,0,0,114,Pizza,23,26,3,6900,360.0
+2024-08-19,Weekday,None,0,0,73,Biryani,16,17,1,4000,100.0
+2024-08-19,Weekday,None,0,0,73,Paneer Butter Masala,13,15,2,2860,176.0
+2024-08-19,Weekday,None,0,0,73,Dosa,10,11,1,1200,48.0
+2024-08-19,Weekday,None,0,0,73,Burger,14,15,1,2100,60.0
+2024-08-19,Weekday,None,0,0,73,Pizza,15,17,2,4500,240.0
+2024-08-20,Weekday,None,0,0,76,Biryani,17,20,3,4250,300.0
+2024-08-20,Weekday,None,0,0,76,Paneer Butter Masala,13,15,2,2860,176.0
+2024-08-20,Weekday,None,0,0,76,Dosa,11,12,1,1320,48.0
+2024-08-20,Weekday,None,0,0,76,Burger,14,14,0,2100,0.0
+2024-08-20,Weekday,None,0,0,76,Pizza,15,17,2,4500,240.0
+2024-08-21,Weekday,None,0,0,66,Biryani,14,15,1,3500,100.0
+2024-08-21,Weekday,None,0,0,66,Paneer Butter Masala,11,12,1,2420,88.0
+2024-08-21,Weekday,None,0,0,66,Dosa,9,9,0,1080,0.0
+2024-08-21,Weekday,None,0,0,66,Burger,12,14,2,1800,120.0
+2024-08-21,Weekday,None,0,0,66,Pizza,13,14,1,3900,120.0
+2024-08-22,Weekday,None,0,0,81,Biryani,18,20,2,4500,200.0
+2024-08-22,Weekday,None,0,0,81,Paneer Butter Masala,14,14,0,3080,0.0
+2024-08-22,Weekday,None,0,0,81,Dosa,12,13,1,1440,48.0
+2024-08-22,Weekday,None,0,0,81,Burger,15,17,2,2250,120.0
+2024-08-22,Weekday,None,0,0,81,Pizza,17,19,2,5100,240.0
+2024-08-23,Weekday,None,0,0,81,Biryani,18,20,2,4500,200.0
+2024-08-23,Weekday,None,0,0,81,Paneer Butter Masala,14,16,2,3080,176.0
+2024-08-23,Weekday,None,0,0,81,Dosa,12,13,1,1440,48.0
+2024-08-23,Weekday,None,0,0,81,Burger,15,16,1,2250,60.0
+2024-08-23,Weekday,None,0,0,81,Pizza,17,18,1,5100,120.0
+2024-08-24,Weekend,None,0,0,123,Biryani,27,29,2,6750,200.0
+2024-08-24,Weekend,None,0,0,123,Paneer Butter Masala,22,23,1,4840,88.0
+2024-08-24,Weekend,None,0,0,123,Dosa,18,21,3,2160,144.0
+2024-08-24,Weekend,None,0,0,123,Burger,23,25,2,3450,120.0
+2024-08-24,Weekend,None,0,0,123,Pizza,25,29,4,7500,480.0
+2024-08-25,Weekend,None,0,0,109,Biryani,24,28,4,6000,400.0
+2024-08-25,Weekend,None,0,0,109,Paneer Butter Masala,19,22,3,4180,264.0
+2024-08-25,Weekend,None,0,0,109,Dosa,16,17,1,1920,48.0
+2024-08-25,Weekend,None,0,0,109,Burger,21,23,2,3150,120.0
+2024-08-25,Weekend,None,0,0,109,Pizza,22,23,1,6600,120.0
+2024-08-26,Weekday,None,0,0,71,Biryani,15,17,2,3750,200.0
+2024-08-26,Weekday,None,0,0,71,Paneer Butter Masala,12,12,0,2640,0.0
+2024-08-26,Weekday,None,0,0,71,Dosa,10,10,0,1200,0.0
+2024-08-26,Weekday,None,0,0,71,Burger,13,13,0,1950,0.0
+2024-08-26,Weekday,None,0,0,71,Pizza,14,16,2,4200,240.0
+2024-08-27,Weekday,None,0,0,70,Biryani,15,16,1,3750,100.0
+2024-08-27,Weekday,None,0,0,70,Paneer Butter Masala,12,13,1,2640,88.0
+2024-08-27,Weekday,None,0,0,70,Dosa,10,11,1,1200,48.0
+2024-08-27,Weekday,None,0,0,70,Burger,13,14,1,1950,60.0
+2024-08-27,Weekday,None,0,0,70,Pizza,14,16,2,4200,240.0
+2024-08-28,Weekday,None,0,0,80,Biryani,18,20,2,4500,200.0
+2024-08-28,Weekday,None,0,0,80,Paneer Butter Masala,14,15,1,3080,88.0
+2024-08-28,Weekday,None,0,0,80,Dosa,12,13,1,1440,48.0
+2024-08-28,Weekday,None,0,0,80,Burger,15,17,2,2250,120.0
+2024-08-28,Weekday,None,0,0,80,Pizza,16,16,0,4800,0.0
+2024-08-29,Weekday,None,0,0,73,Biryani,16,17,1,4000,100.0
+2024-08-29,Weekday,None,0,0,73,Paneer Butter Masala,13,15,2,2860,176.0
+2024-08-29,Weekday,None,0,0,73,Dosa,10,11,1,1200,48.0
+2024-08-29,Weekday,None,0,0,73,Burger,14,15,1,2100,60.0
+2024-08-29,Weekday,None,0,0,73,Pizza,15,15,0,4500,0.0
+2024-08-30,Weekday,None,0,0,60,Biryani,13,14,1,3250,100.0
+2024-08-30,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-08-30,Weekday,None,0,0,60,Dosa,9,9,0,1080,0.0
+2024-08-30,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-08-30,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-08-31,Weekend,None,0,0,101,Biryani,22,25,3,5500,300.0
+2024-08-31,Weekend,None,0,0,101,Paneer Butter Masala,18,19,1,3960,88.0
+2024-08-31,Weekend,None,0,0,101,Dosa,15,17,2,1800,96.0
+2024-08-31,Weekend,None,0,0,101,Burger,19,20,1,2850,60.0
+2024-08-31,Weekend,None,0,0,101,Pizza,21,23,2,6300,240.0
+2024-09-01,Weekend,None,0,0,102,Biryani,22,23,1,5500,100.0
+2024-09-01,Weekend,None,0,0,102,Paneer Butter Masala,18,19,1,3960,88.0
+2024-09-01,Weekend,None,0,0,102,Dosa,15,16,1,1800,48.0
+2024-09-01,Weekend,None,0,0,102,Burger,19,20,1,2850,60.0
+2024-09-01,Weekend,None,0,0,102,Pizza,21,25,4,6300,480.0
+2024-09-02,Weekday,None,0,0,79,Biryani,17,18,1,4250,100.0
+2024-09-02,Weekday,None,0,0,79,Paneer Butter Masala,14,15,1,3080,88.0
+2024-09-02,Weekday,None,0,0,79,Dosa,11,13,2,1320,96.0
+2024-09-02,Weekday,None,0,0,79,Burger,15,16,1,2250,60.0
+2024-09-02,Weekday,None,0,0,79,Pizza,16,18,2,4800,240.0
+2024-09-03,Weekday,None,0,0,75,Biryani,16,17,1,4000,100.0
+2024-09-03,Weekday,None,0,0,75,Paneer Butter Masala,13,14,1,2860,88.0
+2024-09-03,Weekday,None,0,0,75,Dosa,11,12,1,1320,48.0
+2024-09-03,Weekday,None,0,0,75,Burger,14,14,0,2100,0.0
+2024-09-03,Weekday,None,0,0,75,Pizza,15,16,1,4500,120.0
+2024-09-04,Weekday,None,0,1,86,Biryani,19,22,3,4750,300.0
+2024-09-04,Weekday,None,0,1,86,Paneer Butter Masala,15,16,1,3300,88.0
+2024-09-04,Weekday,None,0,1,86,Dosa,12,13,1,1440,48.0
+2024-09-04,Weekday,None,0,1,86,Burger,16,17,1,2400,60.0
+2024-09-04,Weekday,None,0,1,86,Pizza,18,21,3,5400,360.0
+2024-09-05,Weekday,None,0,0,71,Biryani,15,16,1,3750,100.0
+2024-09-05,Weekday,None,0,0,71,Paneer Butter Masala,12,13,1,2640,88.0
+2024-09-05,Weekday,None,0,0,71,Dosa,10,10,0,1200,0.0
+2024-09-05,Weekday,None,0,0,71,Burger,13,14,1,1950,60.0
+2024-09-05,Weekday,None,0,0,71,Pizza,14,16,2,4200,240.0
+2024-09-06,Weekday,None,0,0,80,Biryani,18,21,3,4500,300.0
+2024-09-06,Weekday,None,0,0,80,Paneer Butter Masala,14,16,2,3080,176.0
+2024-09-06,Weekday,None,0,0,80,Dosa,12,13,1,1440,48.0
+2024-09-06,Weekday,None,0,0,80,Burger,15,15,0,2250,0.0
+2024-09-06,Weekday,None,0,0,80,Pizza,16,17,1,4800,120.0
+2024-09-07,Weekend,None,0,0,101,Biryani,22,24,2,5500,200.0
+2024-09-07,Weekend,None,0,0,101,Paneer Butter Masala,18,19,1,3960,88.0
+2024-09-07,Weekend,None,0,0,101,Dosa,15,16,1,1800,48.0
+2024-09-07,Weekend,None,0,0,101,Burger,19,21,2,2850,120.0
+2024-09-07,Weekend,None,0,0,101,Pizza,21,24,3,6300,360.0
+2024-09-08,Weekend,None,0,0,125,Biryani,28,31,3,7000,300.0
+2024-09-08,Weekend,None,0,0,125,Paneer Butter Masala,22,24,2,4840,176.0
+2024-09-08,Weekend,None,0,0,125,Dosa,18,21,3,2160,144.0
+2024-09-08,Weekend,None,0,0,125,Burger,24,26,2,3600,120.0
+2024-09-08,Weekend,None,0,0,125,Pizza,26,31,5,7800,600.0
+2024-09-09,Weekday,None,0,0,69,Biryani,15,16,1,3750,100.0
+2024-09-09,Weekday,None,0,0,69,Paneer Butter Masala,12,13,1,2640,88.0
+2024-09-09,Weekday,None,0,0,69,Dosa,10,11,1,1200,48.0
+2024-09-09,Weekday,None,0,0,69,Burger,13,14,1,1950,60.0
+2024-09-09,Weekday,None,0,0,69,Pizza,14,16,2,4200,240.0
+2024-09-10,Weekday,None,0,0,73,Biryani,16,18,2,4000,200.0
+2024-09-10,Weekday,None,0,0,73,Paneer Butter Masala,13,15,2,2860,176.0
+2024-09-10,Weekday,None,0,0,73,Dosa,10,10,0,1200,0.0
+2024-09-10,Weekday,None,0,0,73,Burger,14,14,0,2100,0.0
+2024-09-10,Weekday,None,0,0,73,Pizza,15,16,1,4500,120.0
+2024-09-11,Weekday,None,0,0,61,Biryani,13,14,1,3250,100.0
+2024-09-11,Weekday,None,0,0,61,Paneer Butter Masala,10,11,1,2200,88.0
+2024-09-11,Weekday,None,0,0,61,Dosa,9,10,1,1080,48.0
+2024-09-11,Weekday,None,0,0,61,Burger,11,13,2,1650,120.0
+2024-09-11,Weekday,None,0,0,61,Pizza,12,13,1,3600,120.0
+2024-09-12,Weekday,None,0,0,60,Biryani,13,15,2,3250,200.0
+2024-09-12,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-09-12,Weekday,None,0,0,60,Dosa,9,10,1,1080,48.0
+2024-09-12,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-09-12,Weekday,None,0,0,60,Pizza,12,12,0,3600,0.0
+2024-09-13,Weekday,None,0,0,68,Biryani,15,17,2,3750,200.0
+2024-09-13,Weekday,None,0,0,68,Paneer Butter Masala,12,13,1,2640,88.0
+2024-09-13,Weekday,None,0,0,68,Dosa,10,10,0,1200,0.0
+2024-09-13,Weekday,None,0,0,68,Burger,13,14,1,1950,60.0
+2024-09-13,Weekday,None,0,0,68,Pizza,14,15,1,4200,120.0
+2024-09-14,Weekend,None,0,0,111,Biryani,24,28,4,6000,400.0
+2024-09-14,Weekend,None,0,0,111,Paneer Butter Masala,19,21,2,4180,176.0
+2024-09-14,Weekend,None,0,0,111,Dosa,16,17,1,1920,48.0
+2024-09-14,Weekend,None,0,0,111,Burger,21,23,2,3150,120.0
+2024-09-14,Weekend,None,0,0,111,Pizza,23,25,2,6900,240.0
+2024-09-15,Weekend,None,0,0,105,Biryani,23,24,1,5750,100.0
+2024-09-15,Weekend,None,0,0,105,Paneer Butter Masala,18,18,0,3960,0.0
+2024-09-15,Weekend,None,0,0,105,Dosa,15,17,2,1800,96.0
+2024-09-15,Weekend,None,0,0,105,Burger,20,22,2,3000,120.0
+2024-09-15,Weekend,None,0,0,105,Pizza,22,24,2,6600,240.0
+2024-09-16,Weekday,None,0,0,61,Biryani,13,14,1,3250,100.0
+2024-09-16,Weekday,None,0,0,61,Paneer Butter Masala,10,10,0,2200,0.0
+2024-09-16,Weekday,None,0,0,61,Dosa,9,10,1,1080,48.0
+2024-09-16,Weekday,None,0,0,61,Burger,11,11,0,1650,0.0
+2024-09-16,Weekday,None,0,0,61,Pizza,12,13,1,3600,120.0
+2024-09-17,Weekday,None,0,1,109,Biryani,24,25,1,6000,100.0
+2024-09-17,Weekday,None,0,1,109,Paneer Butter Masala,19,20,1,4180,88.0
+2024-09-17,Weekday,None,0,1,109,Dosa,16,18,2,1920,96.0
+2024-09-17,Weekday,None,0,1,109,Burger,21,22,1,3150,60.0
+2024-09-17,Weekday,None,0,1,109,Pizza,22,23,1,6600,120.0
+2024-09-18,Weekday,None,0,0,60,Biryani,13,14,1,3250,100.0
+2024-09-18,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-09-18,Weekday,None,0,0,60,Dosa,9,10,1,1080,48.0
+2024-09-18,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-09-18,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-09-19,Weekday,None,0,0,87,Biryani,19,22,3,4750,300.0
+2024-09-19,Weekday,None,0,0,87,Paneer Butter Masala,15,17,2,3300,176.0
+2024-09-19,Weekday,None,0,0,87,Dosa,13,15,2,1560,96.0
+2024-09-19,Weekday,None,0,0,87,Burger,16,17,1,2400,60.0
+2024-09-19,Weekday,None,0,0,87,Pizza,18,20,2,5400,240.0
+2024-09-20,Weekday,None,0,0,86,Biryani,19,21,2,4750,200.0
+2024-09-20,Weekday,None,0,0,86,Paneer Butter Masala,15,17,2,3300,176.0
+2024-09-20,Weekday,None,0,0,86,Dosa,12,13,1,1440,48.0
+2024-09-20,Weekday,None,0,0,86,Burger,16,18,2,2400,120.0
+2024-09-20,Weekday,None,0,0,86,Pizza,18,18,0,5400,0.0
+2024-09-21,Weekend,None,0,0,126,Biryani,28,31,3,7000,300.0
+2024-09-21,Weekend,None,0,0,126,Paneer Butter Masala,22,25,3,4840,264.0
+2024-09-21,Weekend,None,0,0,126,Dosa,18,20,2,2160,96.0
+2024-09-21,Weekend,None,0,0,126,Burger,24,27,3,3600,180.0
+2024-09-21,Weekend,None,0,0,126,Pizza,26,28,2,7800,240.0
+2024-09-22,Weekend,None,0,0,112,Biryani,25,26,1,6250,100.0
+2024-09-22,Weekend,None,0,0,112,Paneer Butter Masala,20,21,1,4400,88.0
+2024-09-22,Weekend,None,0,0,112,Dosa,16,19,3,1920,144.0
+2024-09-22,Weekend,None,0,0,112,Burger,21,24,3,3150,180.0
+2024-09-22,Weekend,None,0,0,112,Pizza,23,27,4,6900,480.0
+2024-09-23,Weekday,None,0,0,62,Biryani,13,14,1,3250,100.0
+2024-09-23,Weekday,None,0,0,62,Paneer Butter Masala,11,12,1,2420,88.0
+2024-09-23,Weekday,None,0,0,62,Dosa,9,10,1,1080,48.0
+2024-09-23,Weekday,None,0,0,62,Burger,12,13,1,1800,60.0
+2024-09-23,Weekday,None,0,0,62,Pizza,13,13,0,3900,0.0
+2024-09-24,Weekday,None,0,0,61,Biryani,13,14,1,3250,100.0
+2024-09-24,Weekday,None,0,0,61,Paneer Butter Masala,10,11,1,2200,88.0
+2024-09-24,Weekday,None,0,0,61,Dosa,9,10,1,1080,48.0
+2024-09-24,Weekday,None,0,0,61,Burger,11,12,1,1650,60.0
+2024-09-24,Weekday,None,0,0,61,Pizza,12,13,1,3600,120.0
+2024-09-25,Weekday,None,0,0,80,Biryani,18,21,3,4500,300.0
+2024-09-25,Weekday,None,0,0,80,Paneer Butter Masala,14,14,0,3080,0.0
+2024-09-25,Weekday,None,0,0,80,Dosa,12,12,0,1440,0.0
+2024-09-25,Weekday,None,0,0,80,Burger,15,17,2,2250,120.0
+2024-09-25,Weekday,None,0,0,80,Pizza,16,19,3,4800,360.0
+2024-09-26,Weekday,None,0,0,75,Biryani,16,17,1,4000,100.0
+2024-09-26,Weekday,None,0,0,75,Paneer Butter Masala,13,15,2,2860,176.0
+2024-09-26,Weekday,None,0,0,75,Dosa,11,11,0,1320,0.0
+2024-09-26,Weekday,None,0,0,75,Burger,14,16,2,2100,120.0
+2024-09-26,Weekday,None,0,0,75,Pizza,15,16,1,4500,120.0
+2024-09-27,Weekday,None,0,0,61,Biryani,13,14,1,3250,100.0
+2024-09-27,Weekday,None,0,0,61,Paneer Butter Masala,10,11,1,2200,88.0
+2024-09-27,Weekday,None,0,0,61,Dosa,9,9,0,1080,0.0
+2024-09-27,Weekday,None,0,0,61,Burger,11,13,2,1650,120.0
+2024-09-27,Weekday,None,0,0,61,Pizza,12,13,1,3600,120.0
+2024-09-28,Weekend,None,0,0,104,Biryani,23,26,3,5750,300.0
+2024-09-28,Weekend,None,0,0,104,Paneer Butter Masala,18,20,2,3960,176.0
+2024-09-28,Weekend,None,0,0,104,Dosa,15,17,2,1800,96.0
+2024-09-28,Weekend,None,0,0,104,Burger,20,21,1,3000,60.0
+2024-09-28,Weekend,None,0,0,104,Pizza,21,22,1,6300,120.0
+2024-09-29,Weekend,None,0,0,123,Biryani,27,28,1,6750,100.0
+2024-09-29,Weekend,None,0,0,123,Paneer Butter Masala,22,23,1,4840,88.0
+2024-09-29,Weekend,None,0,0,123,Dosa,18,20,2,2160,96.0
+2024-09-29,Weekend,None,0,0,123,Burger,23,25,2,3450,120.0
+2024-09-29,Weekend,None,0,0,123,Pizza,25,27,2,7500,240.0
+2024-09-30,Weekday,None,0,1,110,Biryani,24,27,3,6000,300.0
+2024-09-30,Weekday,None,0,1,110,Paneer Butter Masala,19,21,2,4180,176.0
+2024-09-30,Weekday,None,0,1,110,Dosa,16,17,1,1920,48.0
+2024-09-30,Weekday,None,0,1,110,Burger,21,22,1,3150,60.0
+2024-09-30,Weekday,None,0,1,110,Pizza,23,24,1,6900,120.0
+2024-10-01,Weekday,None,0,0,67,Biryani,15,16,1,3750,100.0
+2024-10-01,Weekday,None,0,0,67,Paneer Butter Masala,12,12,0,2640,0.0
+2024-10-01,Weekday,None,0,0,67,Dosa,10,10,0,1200,0.0
+2024-10-01,Weekday,None,0,0,67,Burger,13,15,2,1950,120.0
+2024-10-01,Weekday,None,0,0,67,Pizza,14,15,1,4200,120.0
+2024-10-02,Weekday,None,0,0,84,Biryani,18,21,3,4500,300.0
+2024-10-02,Weekday,None,0,0,84,Paneer Butter Masala,15,17,2,3300,176.0
+2024-10-02,Weekday,None,0,0,84,Dosa,12,12,0,1440,0.0
+2024-10-02,Weekday,None,0,0,84,Burger,16,17,1,2400,60.0
+2024-10-02,Weekday,None,0,0,84,Pizza,17,18,1,5100,120.0
+2024-10-03,Weekday,None,0,0,84,Biryani,18,20,2,4500,200.0
+2024-10-03,Weekday,None,0,0,84,Paneer Butter Masala,15,15,0,3300,0.0
+2024-10-03,Weekday,None,0,0,84,Dosa,12,14,2,1440,96.0
+2024-10-03,Weekday,None,0,0,84,Burger,16,18,2,2400,120.0
+2024-10-03,Weekday,None,0,0,84,Pizza,17,18,1,5100,120.0
+2024-10-04,Weekday,None,0,1,113,Biryani,25,28,3,6250,300.0
+2024-10-04,Weekday,None,0,1,113,Paneer Butter Masala,20,23,3,4400,264.0
+2024-10-04,Weekday,None,0,1,113,Dosa,16,18,2,1920,96.0
+2024-10-04,Weekday,None,0,1,113,Burger,22,25,3,3300,180.0
+2024-10-04,Weekday,None,0,1,113,Pizza,23,24,1,6900,120.0
+2024-10-05,Weekend,None,0,0,116,Biryani,26,30,4,6500,400.0
+2024-10-05,Weekend,None,0,0,116,Paneer Butter Masala,20,21,1,4400,88.0
+2024-10-05,Weekend,None,0,0,116,Dosa,17,18,1,2040,48.0
+2024-10-05,Weekend,None,0,0,116,Burger,22,24,2,3300,120.0
+2024-10-05,Weekend,None,0,0,116,Pizza,24,26,2,7200,240.0
+2024-10-06,Weekend,None,0,0,121,Biryani,27,29,2,6750,200.0
+2024-10-06,Weekend,None,0,0,121,Paneer Butter Masala,21,24,3,4620,264.0
+2024-10-06,Weekend,None,0,0,121,Dosa,18,20,2,2160,96.0
+2024-10-06,Weekend,None,0,0,121,Burger,23,25,2,3450,120.0
+2024-10-06,Weekend,None,0,0,121,Pizza,25,26,1,7500,120.0
+2024-10-07,Weekday,None,0,1,118,Biryani,26,30,4,6500,400.0
+2024-10-07,Weekday,None,0,1,118,Paneer Butter Masala,21,24,3,4620,264.0
+2024-10-07,Weekday,None,0,1,118,Dosa,17,20,3,2040,144.0
+2024-10-07,Weekday,None,0,1,118,Burger,23,27,4,3450,240.0
+2024-10-07,Weekday,None,0,1,118,Pizza,24,26,2,7200,240.0
+2024-10-08,Weekday,None,0,0,80,Biryani,18,21,3,4500,300.0
+2024-10-08,Weekday,None,0,0,80,Paneer Butter Masala,14,16,2,3080,176.0
+2024-10-08,Weekday,None,0,0,80,Dosa,12,13,1,1440,48.0
+2024-10-08,Weekday,None,0,0,80,Burger,15,16,1,2250,60.0
+2024-10-08,Weekday,None,0,0,80,Pizza,16,16,0,4800,0.0
+2024-10-09,Weekday,None,0,0,81,Biryani,18,21,3,4500,300.0
+2024-10-09,Weekday,None,0,0,81,Paneer Butter Masala,14,16,2,3080,176.0
+2024-10-09,Weekday,None,0,0,81,Dosa,12,12,0,1440,0.0
+2024-10-09,Weekday,None,0,0,81,Burger,15,16,1,2250,60.0
+2024-10-09,Weekday,None,0,0,81,Pizza,17,18,1,5100,120.0
+2024-10-10,Weekday,None,0,0,86,Biryani,19,22,3,4750,300.0
+2024-10-10,Weekday,None,0,0,86,Paneer Butter Masala,15,16,1,3300,88.0
+2024-10-10,Weekday,None,0,0,86,Dosa,12,12,0,1440,0.0
+2024-10-10,Weekday,None,0,0,86,Burger,16,17,1,2400,60.0
+2024-10-10,Weekday,None,0,0,86,Pizza,18,20,2,5400,240.0
+2024-10-11,Weekday,None,0,0,60,Biryani,13,14,1,3250,100.0
+2024-10-11,Weekday,None,0,0,60,Paneer Butter Masala,10,10,0,2200,0.0
+2024-10-11,Weekday,None,0,0,60,Dosa,9,10,1,1080,48.0
+2024-10-11,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-10-11,Weekday,None,0,0,60,Pizza,12,14,2,3600,240.0
+2024-10-12,Weekend,None,0,0,136,Biryani,30,32,2,7500,200.0
+2024-10-12,Weekend,None,0,0,136,Paneer Butter Masala,24,26,2,5280,176.0
+2024-10-12,Weekend,None,0,0,136,Dosa,20,21,1,2400,48.0
+2024-10-12,Weekend,None,0,0,136,Burger,26,28,2,3900,120.0
+2024-10-12,Weekend,None,0,0,136,Pizza,28,32,4,8400,480.0
+2024-10-13,Weekend,None,0,1,194,Biryani,43,46,3,10750,300.0
+2024-10-13,Weekend,None,0,1,194,Paneer Butter Masala,34,40,6,7480,528.0
+2024-10-13,Weekend,None,0,1,194,Dosa,29,33,4,3480,192.0
+2024-10-13,Weekend,None,0,1,194,Burger,37,40,3,5550,180.0
+2024-10-13,Weekend,None,0,1,194,Pizza,40,46,6,12000,720.0
+2024-10-14,Weekday,None,0,0,86,Biryani,19,20,1,4750,100.0
+2024-10-14,Weekday,None,0,0,86,Paneer Butter Masala,15,16,1,3300,88.0
+2024-10-14,Weekday,None,0,0,86,Dosa,12,14,2,1440,96.0
+2024-10-14,Weekday,None,0,0,86,Burger,16,18,2,2400,120.0
+2024-10-14,Weekday,None,0,0,86,Pizza,18,18,0,5400,0.0
+2024-10-15,Weekday,None,0,0,81,Biryani,18,21,3,4500,300.0
+2024-10-15,Weekday,None,0,0,81,Paneer Butter Masala,14,14,0,3080,0.0
+2024-10-15,Weekday,None,0,0,81,Dosa,12,13,1,1440,48.0
+2024-10-15,Weekday,None,0,0,81,Burger,15,17,2,2250,120.0
+2024-10-15,Weekday,None,0,0,81,Pizza,17,19,2,5100,240.0
+2024-10-16,Weekday,None,0,0,82,Biryani,18,20,2,4500,200.0
+2024-10-16,Weekday,None,0,0,82,Paneer Butter Masala,14,15,1,3080,88.0
+2024-10-16,Weekday,None,0,0,82,Dosa,12,12,0,1440,0.0
+2024-10-16,Weekday,None,0,0,82,Burger,15,16,1,2250,60.0
+2024-10-16,Weekday,None,0,0,82,Pizza,17,19,2,5100,240.0
+2024-10-17,Weekday,None,0,0,81,Biryani,18,20,2,4500,200.0
+2024-10-17,Weekday,None,0,0,81,Paneer Butter Masala,14,15,1,3080,88.0
+2024-10-17,Weekday,None,0,0,81,Dosa,12,13,1,1440,48.0
+2024-10-17,Weekday,None,0,0,81,Burger,15,17,2,2250,120.0
+2024-10-17,Weekday,None,0,0,81,Pizza,17,17,0,5100,0.0
+2024-10-18,Weekday,None,0,0,63,Biryani,14,15,1,3500,100.0
+2024-10-18,Weekday,None,0,0,63,Paneer Butter Masala,11,12,1,2420,88.0
+2024-10-18,Weekday,None,0,0,63,Dosa,9,9,0,1080,0.0
+2024-10-18,Weekday,None,0,0,63,Burger,12,14,2,1800,120.0
+2024-10-18,Weekday,None,0,0,63,Pizza,13,14,1,3900,120.0
+2024-10-19,Weekend,None,0,0,136,Biryani,30,34,4,7500,400.0
+2024-10-19,Weekend,None,0,0,136,Paneer Butter Masala,24,27,3,5280,264.0
+2024-10-19,Weekend,None,0,0,136,Dosa,20,22,2,2400,96.0
+2024-10-19,Weekend,None,0,0,136,Burger,26,29,3,3900,180.0
+2024-10-19,Weekend,None,0,0,136,Pizza,28,32,4,8400,480.0
+2024-10-20,Weekend,None,0,0,130,Biryani,29,30,1,7250,100.0
+2024-10-20,Weekend,None,0,0,130,Paneer Butter Masala,23,25,2,5060,176.0
+2024-10-20,Weekend,None,0,0,130,Dosa,19,21,2,2280,96.0
+2024-10-20,Weekend,None,0,0,130,Burger,25,26,1,3750,60.0
+2024-10-20,Weekend,None,0,0,130,Pizza,27,31,4,8100,480.0
+2024-10-21,Weekday,None,0,0,85,Biryani,19,21,2,4750,200.0
+2024-10-21,Weekday,None,0,0,85,Paneer Butter Masala,15,17,2,3300,176.0
+2024-10-21,Weekday,None,0,0,85,Dosa,12,13,1,1440,48.0
+2024-10-21,Weekday,None,0,0,85,Burger,16,17,1,2400,60.0
+2024-10-21,Weekday,None,0,0,85,Pizza,17,18,1,5100,120.0
+2024-10-22,Weekday,None,0,0,82,Biryani,18,19,1,4500,100.0
+2024-10-22,Weekday,None,0,0,82,Paneer Butter Masala,14,15,1,3080,88.0
+2024-10-22,Weekday,None,0,0,82,Dosa,12,12,0,1440,0.0
+2024-10-22,Weekday,None,0,0,82,Burger,15,17,2,2250,120.0
+2024-10-22,Weekday,None,0,0,82,Pizza,17,19,2,5100,240.0
+2024-10-23,Weekday,None,0,0,81,Biryani,18,20,2,4500,200.0
+2024-10-23,Weekday,None,0,0,81,Paneer Butter Masala,14,15,1,3080,88.0
+2024-10-23,Weekday,None,0,0,81,Dosa,12,13,1,1440,48.0
+2024-10-23,Weekday,None,0,0,81,Burger,15,17,2,2250,120.0
+2024-10-23,Weekday,None,0,0,81,Pizza,17,18,1,5100,120.0
+2024-10-24,Weekday,None,0,0,73,Biryani,16,18,2,4000,200.0
+2024-10-24,Weekday,None,0,0,73,Paneer Butter Masala,13,15,2,2860,176.0
+2024-10-24,Weekday,None,0,0,73,Dosa,10,11,1,1200,48.0
+2024-10-24,Weekday,None,0,0,73,Burger,14,15,1,2100,60.0
+2024-10-24,Weekday,None,0,0,73,Pizza,15,17,2,4500,240.0
+2024-10-25,Weekday,None,0,1,86,Biryani,19,20,1,4750,100.0
+2024-10-25,Weekday,None,0,1,86,Paneer Butter Masala,15,15,0,3300,0.0
+2024-10-25,Weekday,None,0,1,86,Dosa,12,14,2,1440,96.0
+2024-10-25,Weekday,None,0,1,86,Burger,16,17,1,2400,60.0
+2024-10-25,Weekday,None,0,1,86,Pizza,18,20,2,5400,240.0
+2024-10-26,Weekend,None,0,0,118,Biryani,26,28,2,6500,200.0
+2024-10-26,Weekend,None,0,0,118,Paneer Butter Masala,21,23,2,4620,176.0
+2024-10-26,Weekend,None,0,0,118,Dosa,17,20,3,2040,144.0
+2024-10-26,Weekend,None,0,0,118,Burger,23,27,4,3450,240.0
+2024-10-26,Weekend,None,0,0,118,Pizza,24,25,1,7200,120.0
+2024-10-27,Weekend,None,0,0,109,Biryani,24,28,4,6000,400.0
+2024-10-27,Weekend,None,0,0,109,Paneer Butter Masala,19,21,2,4180,176.0
+2024-10-27,Weekend,None,0,0,109,Dosa,16,18,2,1920,96.0
+2024-10-27,Weekend,None,0,0,109,Burger,21,22,1,3150,60.0
+2024-10-27,Weekend,None,0,0,109,Pizza,22,26,4,6600,480.0
+2024-10-28,Weekday,None,0,0,83,Biryani,18,20,2,4500,200.0
+2024-10-28,Weekday,None,0,0,83,Paneer Butter Masala,14,16,2,3080,176.0
+2024-10-28,Weekday,None,0,0,83,Dosa,12,12,0,1440,0.0
+2024-10-28,Weekday,None,0,0,83,Burger,16,18,2,2400,120.0
+2024-10-28,Weekday,None,0,0,83,Pizza,17,18,1,5100,120.0
+2024-10-29,Weekday,None,0,0,83,Biryani,18,20,2,4500,200.0
+2024-10-29,Weekday,None,0,0,83,Paneer Butter Masala,14,14,0,3080,0.0
+2024-10-29,Weekday,None,0,0,83,Dosa,12,13,1,1440,48.0
+2024-10-29,Weekday,None,0,0,83,Burger,16,16,0,2400,0.0
+2024-10-29,Weekday,None,0,0,83,Pizza,17,17,0,5100,0.0
+2024-10-30,Weekday,None,0,0,82,Biryani,18,21,3,4500,300.0
+2024-10-30,Weekday,None,0,0,82,Paneer Butter Masala,14,15,1,3080,88.0
+2024-10-30,Weekday,None,0,0,82,Dosa,12,13,1,1440,48.0
+2024-10-30,Weekday,None,0,0,82,Burger,15,17,2,2250,120.0
+2024-10-30,Weekday,None,0,0,82,Pizza,17,18,1,5100,120.0
+2024-10-31,Weekday,Diwali,1,0,92,Biryani,20,21,1,5000,100.0
+2024-10-31,Weekday,Diwali,1,0,92,Paneer Butter Masala,16,18,2,3520,176.0
+2024-10-31,Weekday,Diwali,1,0,92,Dosa,13,13,0,1560,0.0
+2024-10-31,Weekday,Diwali,1,0,92,Burger,17,19,2,2550,120.0
+2024-10-31,Weekday,Diwali,1,0,92,Pizza,19,21,2,5700,240.0
+2024-11-01,Weekday,None,0,0,77,Biryani,17,18,1,4250,100.0
+2024-11-01,Weekday,None,0,0,77,Paneer Butter Masala,13,14,1,2860,88.0
+2024-11-01,Weekday,None,0,0,77,Dosa,11,13,2,1320,96.0
+2024-11-01,Weekday,None,0,0,77,Burger,15,15,0,2250,0.0
+2024-11-01,Weekday,None,0,0,77,Pizza,16,18,2,4800,240.0
+2024-11-02,Weekend,None,0,1,159,Biryani,35,41,6,8750,600.0
+2024-11-02,Weekend,None,0,1,159,Paneer Butter Masala,28,31,3,6160,264.0
+2024-11-02,Weekend,None,0,1,159,Dosa,23,27,4,2760,192.0
+2024-11-02,Weekend,None,0,1,159,Burger,31,36,5,4650,300.0
+2024-11-02,Weekend,None,0,1,159,Pizza,33,37,4,9900,480.0
+2024-11-03,Weekend,None,0,0,120,Biryani,27,29,2,6750,200.0
+2024-11-03,Weekend,None,0,0,120,Paneer Butter Masala,21,24,3,4620,264.0
+2024-11-03,Weekend,None,0,0,120,Dosa,18,19,1,2160,48.0
+2024-11-03,Weekend,None,0,0,120,Burger,23,26,3,3450,180.0
+2024-11-03,Weekend,None,0,0,120,Pizza,25,27,2,7500,240.0
+2024-11-04,Weekday,None,0,1,99,Biryani,22,24,2,5500,200.0
+2024-11-04,Weekday,None,0,1,99,Paneer Butter Masala,17,18,1,3740,88.0
+2024-11-04,Weekday,None,0,1,99,Dosa,14,15,1,1680,48.0
+2024-11-04,Weekday,None,0,1,99,Burger,19,20,1,2850,60.0
+2024-11-04,Weekday,None,0,1,99,Pizza,20,21,1,6000,120.0
+2024-11-05,Weekday,None,0,0,82,Biryani,18,20,2,4500,200.0
+2024-11-05,Weekday,None,0,0,82,Paneer Butter Masala,14,16,2,3080,176.0
+2024-11-05,Weekday,None,0,0,82,Dosa,12,13,1,1440,48.0
+2024-11-05,Weekday,None,0,0,82,Burger,15,16,1,2250,60.0
+2024-11-05,Weekday,None,0,0,82,Pizza,17,19,2,5100,240.0
+2024-11-06,Weekday,None,0,0,76,Biryani,17,19,2,4250,200.0
+2024-11-06,Weekday,None,0,0,76,Paneer Butter Masala,13,13,0,2860,0.0
+2024-11-06,Weekday,None,0,0,76,Dosa,11,12,1,1320,48.0
+2024-11-06,Weekday,None,0,0,76,Burger,14,15,1,2100,60.0
+2024-11-06,Weekday,None,0,0,76,Pizza,15,16,1,4500,120.0
+2024-11-07,Weekday,None,0,0,75,Biryani,16,17,1,4000,100.0
+2024-11-07,Weekday,None,0,0,75,Paneer Butter Masala,13,13,0,2860,0.0
+2024-11-07,Weekday,None,0,0,75,Dosa,11,12,1,1320,48.0
+2024-11-07,Weekday,None,0,0,75,Burger,14,15,1,2100,60.0
+2024-11-07,Weekday,None,0,0,75,Pizza,15,17,2,4500,240.0
+2024-11-08,Weekday,None,0,0,74,Biryani,16,18,2,4000,200.0
+2024-11-08,Weekday,None,0,0,74,Paneer Butter Masala,13,15,2,2860,176.0
+2024-11-08,Weekday,None,0,0,74,Dosa,11,12,1,1320,48.0
+2024-11-08,Weekday,None,0,0,74,Burger,14,14,0,2100,0.0
+2024-11-08,Weekday,None,0,0,74,Pizza,15,17,2,4500,240.0
+2024-11-09,Weekend,None,0,0,106,Biryani,23,27,4,5750,400.0
+2024-11-09,Weekend,None,0,0,106,Paneer Butter Masala,19,21,2,4180,176.0
+2024-11-09,Weekend,None,0,0,106,Dosa,15,17,2,1800,96.0
+2024-11-09,Weekend,None,0,0,106,Burger,20,23,3,3000,180.0
+2024-11-09,Weekend,None,0,0,106,Pizza,22,23,1,6600,120.0
+2024-11-10,Weekend,None,0,0,114,Biryani,25,29,4,6250,400.0
+2024-11-10,Weekend,None,0,0,114,Paneer Butter Masala,20,23,3,4400,264.0
+2024-11-10,Weekend,None,0,0,114,Dosa,17,18,1,2040,48.0
+2024-11-10,Weekend,None,0,0,114,Burger,22,24,2,3300,120.0
+2024-11-10,Weekend,None,0,0,114,Pizza,23,27,4,6900,480.0
+2024-11-11,Weekday,None,0,0,61,Biryani,13,13,0,3250,0.0
+2024-11-11,Weekday,None,0,0,61,Paneer Butter Masala,10,11,1,2200,88.0
+2024-11-11,Weekday,None,0,0,61,Dosa,9,10,1,1080,48.0
+2024-11-11,Weekday,None,0,0,61,Burger,11,12,1,1650,60.0
+2024-11-11,Weekday,None,0,0,61,Pizza,12,13,1,3600,120.0
+2024-11-12,Weekday,None,0,0,79,Biryani,17,19,2,4250,200.0
+2024-11-12,Weekday,None,0,0,79,Paneer Butter Masala,14,15,1,3080,88.0
+2024-11-12,Weekday,None,0,0,79,Dosa,11,11,0,1320,0.0
+2024-11-12,Weekday,None,0,0,79,Burger,15,16,1,2250,60.0
+2024-11-12,Weekday,None,0,0,79,Pizza,16,17,1,4800,120.0
+2024-11-13,Weekday,None,0,0,67,Biryani,15,16,1,3750,100.0
+2024-11-13,Weekday,None,0,0,67,Paneer Butter Masala,12,14,2,2640,176.0
+2024-11-13,Weekday,None,0,0,67,Dosa,10,11,1,1200,48.0
+2024-11-13,Weekday,None,0,0,67,Burger,13,14,1,1950,60.0
+2024-11-13,Weekday,None,0,0,67,Pizza,14,16,2,4200,240.0
+2024-11-14,Weekday,None,0,0,75,Biryani,16,18,2,4000,200.0
+2024-11-14,Weekday,None,0,0,75,Paneer Butter Masala,13,14,1,2860,88.0
+2024-11-14,Weekday,None,0,0,75,Dosa,11,12,1,1320,48.0
+2024-11-14,Weekday,None,0,0,75,Burger,14,15,1,2100,60.0
+2024-11-14,Weekday,None,0,0,75,Pizza,15,16,1,4500,120.0
+2024-11-15,Weekday,None,0,0,72,Biryani,16,18,2,4000,200.0
+2024-11-15,Weekday,None,0,0,72,Paneer Butter Masala,12,13,1,2640,88.0
+2024-11-15,Weekday,None,0,0,72,Dosa,10,11,1,1200,48.0
+2024-11-15,Weekday,None,0,0,72,Burger,14,14,0,2100,0.0
+2024-11-15,Weekday,None,0,0,72,Pizza,15,16,1,4500,120.0
+2024-11-16,Weekend,None,0,0,136,Biryani,30,34,4,7500,400.0
+2024-11-16,Weekend,None,0,0,136,Paneer Butter Masala,24,28,4,5280,352.0
+2024-11-16,Weekend,None,0,0,136,Dosa,20,21,1,2400,48.0
+2024-11-16,Weekend,None,0,0,136,Burger,26,30,4,3900,240.0
+2024-11-16,Weekend,None,0,0,136,Pizza,28,33,5,8400,600.0
+2024-11-17,Weekend,None,0,0,108,Biryani,24,28,4,6000,400.0
+2024-11-17,Weekend,None,0,0,108,Paneer Butter Masala,19,21,2,4180,176.0
+2024-11-17,Weekend,None,0,0,108,Dosa,16,19,3,1920,144.0
+2024-11-17,Weekend,None,0,0,108,Burger,21,23,2,3150,120.0
+2024-11-17,Weekend,None,0,0,108,Pizza,22,26,4,6600,480.0
+2024-11-18,Weekday,None,0,0,72,Biryani,16,17,1,4000,100.0
+2024-11-18,Weekday,None,0,0,72,Paneer Butter Masala,12,14,2,2640,176.0
+2024-11-18,Weekday,None,0,0,72,Dosa,10,11,1,1200,48.0
+2024-11-18,Weekday,None,0,0,72,Burger,14,16,2,2100,120.0
+2024-11-18,Weekday,None,0,0,72,Pizza,15,16,1,4500,120.0
+2024-11-19,Weekday,None,0,0,62,Biryani,13,14,1,3250,100.0
+2024-11-19,Weekday,None,0,0,62,Paneer Butter Masala,11,12,1,2420,88.0
+2024-11-19,Weekday,None,0,0,62,Dosa,9,10,1,1080,48.0
+2024-11-19,Weekday,None,0,0,62,Burger,12,12,0,1800,0.0
+2024-11-19,Weekday,None,0,0,62,Pizza,13,15,2,3900,240.0
+2024-11-20,Weekday,None,0,0,88,Biryani,19,20,1,4750,100.0
+2024-11-20,Weekday,None,0,0,88,Paneer Butter Masala,15,17,2,3300,176.0
+2024-11-20,Weekday,None,0,0,88,Dosa,13,13,0,1560,0.0
+2024-11-20,Weekday,None,0,0,88,Burger,17,19,2,2550,120.0
+2024-11-20,Weekday,None,0,0,88,Pizza,18,21,3,5400,360.0
+2024-11-21,Weekday,None,0,0,71,Biryani,15,16,1,3750,100.0
+2024-11-21,Weekday,None,0,0,71,Paneer Butter Masala,12,13,1,2640,88.0
+2024-11-21,Weekday,None,0,0,71,Dosa,10,11,1,1200,48.0
+2024-11-21,Weekday,None,0,0,71,Burger,13,15,2,1950,120.0
+2024-11-21,Weekday,None,0,0,71,Pizza,14,15,1,4200,120.0
+2024-11-22,Weekday,None,0,0,80,Biryani,18,19,1,4500,100.0
+2024-11-22,Weekday,None,0,0,80,Paneer Butter Masala,14,14,0,3080,0.0
+2024-11-22,Weekday,None,0,0,80,Dosa,12,13,1,1440,48.0
+2024-11-22,Weekday,None,0,0,80,Burger,15,16,1,2250,60.0
+2024-11-22,Weekday,None,0,0,80,Pizza,16,18,2,4800,240.0
+2024-11-23,Weekend,None,0,0,117,Biryani,26,30,4,6500,400.0
+2024-11-23,Weekend,None,0,0,117,Paneer Butter Masala,21,24,3,4620,264.0
+2024-11-23,Weekend,None,0,0,117,Dosa,17,19,2,2040,96.0
+2024-11-23,Weekend,None,0,0,117,Burger,22,24,2,3300,120.0
+2024-11-23,Weekend,None,0,0,117,Pizza,24,28,4,7200,480.0
+2024-11-24,Weekend,None,0,0,114,Biryani,25,27,2,6250,200.0
+2024-11-24,Weekend,None,0,0,114,Paneer Butter Masala,20,21,1,4400,88.0
+2024-11-24,Weekend,None,0,0,114,Dosa,17,19,2,2040,96.0
+2024-11-24,Weekend,None,0,0,114,Burger,22,23,1,3300,60.0
+2024-11-24,Weekend,None,0,0,114,Pizza,23,25,2,6900,240.0
+2024-11-25,Weekday,None,0,0,74,Biryani,16,17,1,4000,100.0
+2024-11-25,Weekday,None,0,0,74,Paneer Butter Masala,13,15,2,2860,176.0
+2024-11-25,Weekday,None,0,0,74,Dosa,11,11,0,1320,0.0
+2024-11-25,Weekday,None,0,0,74,Burger,14,16,2,2100,120.0
+2024-11-25,Weekday,None,0,0,74,Pizza,15,16,1,4500,120.0
+2024-11-26,Weekday,None,0,0,63,Biryani,14,16,2,3500,200.0
+2024-11-26,Weekday,None,0,0,63,Paneer Butter Masala,11,11,0,2420,0.0
+2024-11-26,Weekday,None,0,0,63,Dosa,9,9,0,1080,0.0
+2024-11-26,Weekday,None,0,0,63,Burger,12,12,0,1800,0.0
+2024-11-26,Weekday,None,0,0,63,Pizza,13,15,2,3900,240.0
+2024-11-27,Weekday,None,0,0,79,Biryani,17,20,3,4250,300.0
+2024-11-27,Weekday,None,0,0,79,Paneer Butter Masala,14,16,2,3080,176.0
+2024-11-27,Weekday,None,0,0,79,Dosa,11,12,1,1320,48.0
+2024-11-27,Weekday,None,0,0,79,Burger,15,17,2,2250,120.0
+2024-11-27,Weekday,None,0,0,79,Pizza,16,18,2,4800,240.0
+2024-11-28,Weekday,None,0,0,60,Biryani,13,15,2,3250,200.0
+2024-11-28,Weekday,None,0,0,60,Paneer Butter Masala,10,10,0,2200,0.0
+2024-11-28,Weekday,None,0,0,60,Dosa,9,9,0,1080,0.0
+2024-11-28,Weekday,None,0,0,60,Burger,11,12,1,1650,60.0
+2024-11-28,Weekday,None,0,0,60,Pizza,12,13,1,3600,120.0
+2024-11-29,Weekday,None,0,0,80,Biryani,18,20,2,4500,200.0
+2024-11-29,Weekday,None,0,0,80,Paneer Butter Masala,14,15,1,3080,88.0
+2024-11-29,Weekday,None,0,0,80,Dosa,12,14,2,1440,96.0
+2024-11-29,Weekday,None,0,0,80,Burger,15,15,0,2250,0.0
+2024-11-29,Weekday,None,0,0,80,Pizza,16,17,1,4800,120.0
+2024-11-30,Weekend,None,0,0,123,Biryani,27,28,1,6750,100.0
+2024-11-30,Weekend,None,0,0,123,Paneer Butter Masala,22,26,4,4840,352.0
+2024-11-30,Weekend,None,0,0,123,Dosa,18,19,1,2160,48.0
+2024-11-30,Weekend,None,0,0,123,Burger,23,26,3,3450,180.0
+2024-11-30,Weekend,None,0,0,123,Pizza,25,29,4,7500,480.0
+2024-12-01,Weekend,None,0,0,118,Biryani,26,30,4,6500,400.0
+2024-12-01,Weekend,None,0,0,118,Paneer Butter Masala,21,22,1,4620,88.0
+2024-12-01,Weekend,None,0,0,118,Dosa,17,20,3,2040,144.0
+2024-12-01,Weekend,None,0,0,118,Burger,23,26,3,3450,180.0
+2024-12-01,Weekend,None,0,0,118,Pizza,24,26,2,7200,240.0
+2024-12-02,Weekday,None,0,0,87,Biryani,19,21,2,4750,200.0
+2024-12-02,Weekday,None,0,0,87,Paneer Butter Masala,15,16,1,3300,88.0
+2024-12-02,Weekday,None,0,0,87,Dosa,13,14,1,1560,48.0
+2024-12-02,Weekday,None,0,0,87,Burger,16,17,1,2400,60.0
+2024-12-02,Weekday,None,0,0,87,Pizza,18,19,1,5400,120.0
+2024-12-03,Weekday,None,0,0,68,Biryani,15,15,0,3750,0.0
+2024-12-03,Weekday,None,0,0,68,Paneer Butter Masala,12,13,1,2640,88.0
+2024-12-03,Weekday,None,0,0,68,Dosa,10,10,0,1200,0.0
+2024-12-03,Weekday,None,0,0,68,Burger,13,14,1,1950,60.0
+2024-12-03,Weekday,None,0,0,68,Pizza,14,15,1,4200,120.0
+2024-12-04,Weekday,None,0,0,89,Biryani,20,22,2,5000,200.0
+2024-12-04,Weekday,None,0,0,89,Paneer Butter Masala,16,16,0,3520,0.0
+2024-12-04,Weekday,None,0,0,89,Dosa,13,15,2,1560,96.0
+2024-12-04,Weekday,None,0,0,89,Burger,17,20,3,2550,180.0
+2024-12-04,Weekday,None,0,0,89,Pizza,18,19,1,5400,120.0
+2024-12-05,Weekday,None,0,0,83,Biryani,18,19,1,4500,100.0
+2024-12-05,Weekday,None,0,0,83,Paneer Butter Masala,14,14,0,3080,0.0
+2024-12-05,Weekday,None,0,0,83,Dosa,12,13,1,1440,48.0
+2024-12-05,Weekday,None,0,0,83,Burger,16,18,2,2400,120.0
+2024-12-05,Weekday,None,0,0,83,Pizza,17,17,0,5100,0.0
+2024-12-06,Weekday,None,0,0,73,Biryani,16,18,2,4000,200.0
+2024-12-06,Weekday,None,0,0,73,Paneer Butter Masala,13,14,1,2860,88.0
+2024-12-06,Weekday,None,0,0,73,Dosa,10,10,0,1200,0.0
+2024-12-06,Weekday,None,0,0,73,Burger,14,16,2,2100,120.0
+2024-12-06,Weekday,None,0,0,73,Pizza,15,17,2,4500,240.0
+2024-12-07,Weekend,None,0,0,108,Biryani,24,28,4,6000,400.0
+2024-12-07,Weekend,None,0,0,108,Paneer Butter Masala,19,21,2,4180,176.0
+2024-12-07,Weekend,None,0,0,108,Dosa,16,18,2,1920,96.0
+2024-12-07,Weekend,None,0,0,108,Burger,21,24,3,3150,180.0
+2024-12-07,Weekend,None,0,0,108,Pizza,22,24,2,6600,240.0
+2024-12-08,Weekend,None,0,0,139,Biryani,31,34,3,7750,300.0
+2024-12-08,Weekend,None,0,0,139,Paneer Butter Masala,25,27,2,5500,176.0
+2024-12-08,Weekend,None,0,0,139,Dosa,20,23,3,2400,144.0
+2024-12-08,Weekend,None,0,0,139,Burger,27,30,3,4050,180.0
+2024-12-08,Weekend,None,0,0,139,Pizza,29,34,5,8700,600.0
+2024-12-09,Weekday,None,0,0,67,Biryani,15,17,2,3750,200.0
+2024-12-09,Weekday,None,0,0,67,Paneer Butter Masala,12,13,1,2640,88.0
+2024-12-09,Weekday,None,0,0,67,Dosa,10,11,1,1200,48.0
+2024-12-09,Weekday,None,0,0,67,Burger,13,14,1,1950,60.0
+2024-12-09,Weekday,None,0,0,67,Pizza,14,16,2,4200,240.0
+2024-12-10,Weekday,None,0,0,63,Biryani,14,15,1,3500,100.0
+2024-12-10,Weekday,None,0,0,63,Paneer Butter Masala,11,12,1,2420,88.0
+2024-12-10,Weekday,None,0,0,63,Dosa,9,10,1,1080,48.0
+2024-12-10,Weekday,None,0,0,63,Burger,12,14,2,1800,120.0
+2024-12-10,Weekday,None,0,0,63,Pizza,13,14,1,3900,120.0
+2024-12-11,Weekday,None,0,0,60,Biryani,13,14,1,3250,100.0
+2024-12-11,Weekday,None,0,0,60,Paneer Butter Masala,10,11,1,2200,88.0
+2024-12-11,Weekday,None,0,0,60,Dosa,9,10,1,1080,48.0
+2024-12-11,Weekday,None,0,0,60,Burger,11,11,0,1650,0.0
+2024-12-11,Weekday,None,0,0,60,Pizza,12,12,0,3600,0.0
+2024-12-12,Weekday,None,0,0,86,Biryani,19,20,1,4750,100.0
+2024-12-12,Weekday,None,0,0,86,Paneer Butter Masala,15,16,1,3300,88.0
+2024-12-12,Weekday,None,0,0,86,Dosa,12,14,2,1440,96.0
+2024-12-12,Weekday,None,0,0,86,Burger,16,17,1,2400,60.0
+2024-12-12,Weekday,None,0,0,86,Pizza,18,20,2,5400,240.0
+2024-12-13,Weekday,None,0,0,62,Biryani,13,14,1,3250,100.0
+2024-12-13,Weekday,None,0,0,62,Paneer Butter Masala,11,12,1,2420,88.0
+2024-12-13,Weekday,None,0,0,62,Dosa,9,10,1,1080,48.0
+2024-12-13,Weekday,None,0,0,62,Burger,12,13,1,1800,60.0
+2024-12-13,Weekday,None,0,0,62,Pizza,13,15,2,3900,240.0
+2024-12-14,Weekend,None,0,0,107,Biryani,24,25,1,6000,100.0
+2024-12-14,Weekend,None,0,0,107,Paneer Butter Masala,19,20,1,4180,88.0
+2024-12-14,Weekend,None,0,0,107,Dosa,16,17,1,1920,48.0
+2024-12-14,Weekend,None,0,0,107,Burger,20,23,3,3000,180.0
+2024-12-14,Weekend,None,0,0,107,Pizza,22,24,2,6600,240.0
+2024-12-15,Weekend,None,0,0,108,Biryani,24,28,4,6000,400.0
+2024-12-15,Weekend,None,0,0,108,Paneer Butter Masala,19,20,1,4180,88.0
+2024-12-15,Weekend,None,0,0,108,Dosa,16,18,2,1920,96.0
+2024-12-15,Weekend,None,0,0,108,Burger,21,23,2,3150,120.0
+2024-12-15,Weekend,None,0,0,108,Pizza,22,26,4,6600,480.0
+2024-12-16,Weekday,None,0,0,66,Biryani,14,15,1,3500,100.0
+2024-12-16,Weekday,None,0,0,66,Paneer Butter Masala,11,12,1,2420,88.0
+2024-12-16,Weekday,None,0,0,66,Dosa,9,10,1,1080,48.0
+2024-12-16,Weekday,None,0,0,66,Burger,12,12,0,1800,0.0
+2024-12-16,Weekday,None,0,0,66,Pizza,13,14,1,3900,120.0
+2024-12-17,Weekday,None,0,0,71,Biryani,15,17,2,3750,200.0
+2024-12-17,Weekday,None,0,0,71,Paneer Butter Masala,12,14,2,2640,176.0
+2024-12-17,Weekday,None,0,0,71,Dosa,10,11,1,1200,48.0
+2024-12-17,Weekday,None,0,0,71,Burger,13,14,1,1950,60.0
+2024-12-17,Weekday,None,0,0,71,Pizza,14,16,2,4200,240.0
+2024-12-18,Weekday,None,0,0,85,Biryani,19,22,3,4750,300.0
+2024-12-18,Weekday,None,0,0,85,Paneer Butter Masala,15,17,2,3300,176.0
+2024-12-18,Weekday,None,0,0,85,Dosa,12,12,0,1440,0.0
+2024-12-18,Weekday,None,0,0,85,Burger,16,18,2,2400,120.0
+2024-12-18,Weekday,None,0,0,85,Pizza,17,17,0,5100,0.0
+2024-12-19,Weekday,None,0,0,82,Biryani,18,19,1,4500,100.0
+2024-12-19,Weekday,None,0,0,82,Paneer Butter Masala,14,16,2,3080,176.0
+2024-12-19,Weekday,None,0,0,82,Dosa,12,13,1,1440,48.0
+2024-12-19,Weekday,None,0,0,82,Burger,15,17,2,2250,120.0
+2024-12-19,Weekday,None,0,0,82,Pizza,17,19,2,5100,240.0
+2024-12-20,Weekday,None,0,0,64,Biryani,14,14,0,3500,0.0
+2024-12-20,Weekday,None,0,0,64,Paneer Butter Masala,11,12,1,2420,88.0
+2024-12-20,Weekday,None,0,0,64,Dosa,9,10,1,1080,48.0
+2024-12-20,Weekday,None,0,0,64,Burger,12,12,0,1800,0.0
+2024-12-20,Weekday,None,0,0,64,Pizza,13,13,0,3900,0.0
+2024-12-21,Weekend,None,0,0,138,Biryani,31,34,3,7750,300.0
+2024-12-21,Weekend,None,0,0,138,Paneer Butter Masala,24,27,3,5280,264.0
+2024-12-21,Weekend,None,0,0,138,Dosa,20,22,2,2400,96.0
+2024-12-21,Weekend,None,0,0,138,Burger,26,30,4,3900,240.0
+2024-12-21,Weekend,None,0,0,138,Pizza,28,31,3,8400,360.0
+2024-12-22,Weekend,None,0,0,108,Biryani,24,27,3,6000,300.0
+2024-12-22,Weekend,None,0,0,108,Paneer Butter Masala,19,22,3,4180,264.0
+2024-12-22,Weekend,None,0,0,108,Dosa,16,18,2,1920,96.0
+2024-12-22,Weekend,None,0,0,108,Burger,21,22,1,3150,60.0
+2024-12-22,Weekend,None,0,0,108,Pizza,22,26,4,6600,480.0
+2024-12-23,Weekday,None,0,0,75,Biryani,16,19,3,4000,300.0
+2024-12-23,Weekday,None,0,0,75,Paneer Butter Masala,13,15,2,2860,176.0
+2024-12-23,Weekday,None,0,0,75,Dosa,11,12,1,1320,48.0
+2024-12-23,Weekday,None,0,0,75,Burger,14,15,1,2100,60.0
+2024-12-23,Weekday,None,0,0,75,Pizza,15,16,1,4500,120.0
+2024-12-24,Weekday,None,0,0,74,Biryani,16,16,0,4000,0.0
+2024-12-24,Weekday,None,0,0,74,Paneer Butter Masala,13,13,0,2860,0.0
+2024-12-24,Weekday,None,0,0,74,Dosa,11,12,1,1320,48.0
+2024-12-24,Weekday,None,0,0,74,Burger,14,15,1,2100,60.0
+2024-12-24,Weekday,None,0,0,74,Pizza,15,17,2,4500,240.0
+2024-12-25,Weekday,None,0,0,87,Biryani,19,21,2,4750,200.0
+2024-12-25,Weekday,None,0,0,87,Paneer Butter Masala,15,17,2,3300,176.0
+2024-12-25,Weekday,None,0,0,87,Dosa,13,14,1,1560,48.0
+2024-12-25,Weekday,None,0,0,87,Burger,16,16,0,2400,0.0
+2024-12-25,Weekday,None,0,0,87,Pizza,18,20,2,5400,240.0
+2024-12-26,Weekday,None,0,0,89,Biryani,20,22,2,5000,200.0
+2024-12-26,Weekday,None,0,0,89,Paneer Butter Masala,16,18,2,3520,176.0
+2024-12-26,Weekday,None,0,0,89,Dosa,13,15,2,1560,96.0
+2024-12-26,Weekday,None,0,0,89,Burger,17,20,3,2550,180.0
+2024-12-26,Weekday,None,0,0,89,Pizza,18,21,3,5400,360.0
+2024-12-27,Weekday,None,0,0,67,Biryani,15,17,2,3750,200.0
+2024-12-27,Weekday,None,0,0,67,Paneer Butter Masala,12,12,0,2640,0.0
+2024-12-27,Weekday,None,0,0,67,Dosa,10,11,1,1200,48.0
+2024-12-27,Weekday,None,0,0,67,Burger,13,13,0,1950,0.0
+2024-12-27,Weekday,None,0,0,67,Pizza,14,15,1,4200,120.0
+2024-12-28,Weekend,None,0,0,133,Biryani,29,31,2,7250,200.0
+2024-12-28,Weekend,None,0,0,133,Paneer Butter Masala,23,25,2,5060,176.0
+2024-12-28,Weekend,None,0,0,133,Dosa,19,20,1,2280,48.0
+2024-12-28,Weekend,None,0,0,133,Burger,25,29,4,3750,240.0
+2024-12-28,Weekend,None,0,0,133,Pizza,27,29,2,8100,240.0
+2024-12-29,Weekend,None,0,0,128,Biryani,28,31,3,7000,300.0
+2024-12-29,Weekend,None,0,0,128,Paneer Butter Masala,23,25,2,5060,176.0
+2024-12-29,Weekend,None,0,0,128,Dosa,19,19,0,2280,0.0
+2024-12-29,Weekend,None,0,0,128,Burger,24,26,2,3600,120.0
+2024-12-29,Weekend,None,0,0,128,Pizza,26,30,4,7800,480.0
+2024-12-30,Weekday,None,0,0,76,Biryani,17,19,2,4250,200.0
+2024-12-30,Weekday,None,0,0,76,Paneer Butter Masala,13,14,1,2860,88.0
+2024-12-30,Weekday,None,0,0,76,Dosa,11,12,1,1320,48.0
+2024-12-30,Weekday,None,0,0,76,Burger,14,15,1,2100,60.0
+2024-12-30,Weekday,None,0,0,76,Pizza,15,17,2,4500,240.0
